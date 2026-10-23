@@ -1,0 +1,35 @@
+Resumen: direcciones de Canadá (datos transformados)
+====================================================
+
+Cantidad de filas: 50000
+Cantidad de columnas: 5
+
+Nombres y tipos de columnas:
+  - unit_number: str
+  - street_number: str
+  - street: str
+  - city: str
+  - province: str
+
+Valores nulos por columna:
+  - unit_number: 48798 (97.6 %)
+  - street_number: 0 (0.0 %)
+  - street: 0 (0.0 %)
+  - city: 15338 (30.7 %)
+  - province: 0 (0.0 %)
+Total de valores nulos: 64136
+
+Estadísticas descriptivas:
+       unit_number street_number street          city province
+count         1202         50000  50000         34662    50000
+unique         289         13346   4073           449        3
+top           #101            15  RTE 2  YELLOW KNIFE       PE
+freq            54           321    274          6996    27666
+
+Primeras 5 filas:
+  unit_number street_number        street          city province
+0         NaN           410       HALL CR  YELLOW KNIFE       NT
+1         NaN           121      NIVEN DR  YELLOW KNIFE       NT
+2         NaN          5608       51A AVE  YELLOW KNIFE       NT
+3         NaN           233     BORDEN DR  YELLOW KNIFE       NT
+4         NaN           604  WILLIAMS AVE  YELLOW KNIFE       NT
