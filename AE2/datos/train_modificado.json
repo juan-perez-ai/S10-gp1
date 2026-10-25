@@ -1,0 +1,1502 @@
+[
+  {
+    "instruction": "Da tres consejos para mantenerse saludable.",
+    "input": "",
+    "output": "1. Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule."
+  },
+  {
+    "instruction": "What are the three primary colors?",
+    "input": "",
+    "output": "The three primary colors are red, blue, and yellow."
+  },
+  {
+    "instruction": "Describe the structure of an atom.",
+    "input": "",
+    "output": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom."
+  },
+  {
+    "instruction": "How can we reduce air pollution?",
+    "input": "",
+    "output": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and changing to energy efficient appliances."
+  },
+  {
+    "instruction": "Pretend you are a project manager of a construction company. Describe a time when you had to make a difficult decision.",
+    "input": "",
+    "output": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client’s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team’s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client’s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities."
+  },
+  {
+    "instruction": "Write a concise summary of the following:\n\"Commodore 64 (commonly known as the C64 or CBM 64) was manufactured by Commodore Business Machine (CBM) in August 1982 with a starting price of $595. It was an 8-bit home computer with remarkable market success. Between 1983-1986, C64 sales amounted to about 17 million units sold, making them the best-selling single personal computer model of all time in 1983-1986. \n\nAdditionally, the Commodore 64 dominated the market with between 30% and 40% share and 2 million units sold per year, outselling the IBM PC clones, Apple Computers, and Atari computers. Adding to their success, Sam Tramiel (former Atari president), during an interview in 1989, said they were building 400,000 C64s a month for a couple of years. \"",
+    "input": "",
+    "output": "The Commodore 64 was a highly successful 8-bit home computer manufactured by Commodore Business Machine (CBM) in 1982, with sales amounting to approximately 17 million units sold between 1983-1986. It dominated the market with between 30% and 40% share and outsold its competitors, including IBM PC clones, Apple Computers, and Atari computers. At its peak, CBM was building 400,000 C64s a month for a couple of years."
+  },
+  {
+    "instruction": "Explain why the following fraction is equivalent to 1/4",
+    "input": "4/16",
+    "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4."
+  },
+  {
+    "instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+    "input": "",
+    "output": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and regulations quickly, but he worked hard and eventually excelled in his studies. After a few years, John started working at an accounting firm in his city. He was eager to put his knowledge of taxes and accounting to use in a real-world setting.\n\nJohn loved his job, as it let him express his creativity in finding strategies to save his clients money. After a few years at the firm, he became a senior accountant and was asked to manage bigger and more challenging cases. He was now a respected figure in the financial industry, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him."
+  },
+  {
+    "instruction": "Evaluate this sentence for spelling and grammar mistakes",
+    "input": "He finnished his meal and left the resturant",
+    "output": "He finished his meal and left the restaurant."
+  },
+  {
+    "instruction": "How did Julius Caesar die?",
+    "input": "",
+    "output": "Julius Caesar was assassinated by a group of up to 60 conspirators, led by Gaius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC."
+  },
+  {
+    "instruction": "What is the capital of France?",
+    "input": "",
+    "output": "The capital of France is Paris."
+  },
+  {
+    "instruction": "Generate a list of ten items a person might need for a camping trip",
+    "input": "",
+    "output": "1. Tent\n2. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Extra clothes\n7. First aid kit\n8. Camp stove\n9. Cooking utensils\n10. Biodegradable soaps/shampoos"
+  },
+  {
+    "instruction": "Discuss the causes of the Great Depression",
+    "input": "",
+    "output": "The Great Depression was a severe global economic downturn that lasted from 1929 to 1939. It was caused by several factors, including the stock market crash of 1929, structural weaknesses in the economy, low consumer spending, high unemployment, and a lack of confidence in the banking system. Other contributing factors included overproduction of commodities, reliance on borrowing to finance investments, agricultural overproduction, and a decrease in international trade."
+  },
+  {
+    "instruction": "Classify the following into animals, plants, and minerals",
+    "input": "Oak tree, copper ore, elephant",
+    "output": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal"
+  },
+  {
+    "instruction": "Explain the use of word embeddings in Natural Language Processing",
+    "input": "",
+    "output": "Word embeddings are one of the most powerful tools available for Natural Language Processing (NLP). They are mathematical representations of words or phrases in a vector space, allowing similarities between words and the context in which they are used to be measured. Word embeddings are useful for tasks such as sentiment analysis, text classification, predicting the next word in a sequence, and understanding synonyms and analogies. They allow for words to be processed as numerical values, giving machines an easier way to perform NLP tasks."
+  },
+  {
+    "instruction": "Describe the function of a computer motherboard",
+    "input": "",
+    "output": "A computer motherboard is the main circuit board in a computer. It is the backbone of the system, connecting all other components such as the processor, RAM, storage, graphics card and peripheral ports. It provides communication pathways between all of these components, allowing them to interact and work together. The motherboard is responsible for regulating power, and also houses slots for expansion cards, as well as ports for USB, audio, Ethernet, and other connection types."
+  },
+  {
+    "instruction": "Refactor this code and add comments.",
+    "input": "def factorialize(num):\n  factorial = 1\n  for i in range(1, num):\n    factorial *= i\n  \n  return factorial",
+    "output": "```\n# This is a function that calculates the factorial of a given number\ndef factorialize(num):\n  # Set the variable 'factorial' to 1\n  factorial = 1\n  # Iterate from 1 to 'num' using the range function\n  for i in range(1, num):\n    # Multiply the 'factorial' variable by the current number in the iteration\n    factorial *= i\n  # Return the final value of 'factorial'\n  return factorial\n```"
+  },
+  {
+    "instruction": "Propose an ethical solution to the problem of data privacy",
+    "input": "",
+    "output": "One ethical solution to the problem of data privacy is to implement an opt-in data collection policy. This means that companies cannot collect and use personal data without the explicit permission of the data owners. This approach gives users the power to determine which data companies can use and for what purpose. Companies should also be transparent about how they use the collected data, so that users can make informed decisions and have control over their own data."
+  },
+  {
+    "instruction": "Generate three verbs that mean the same as \"to apologize\"",
+    "input": "",
+    "output": "Acknowledge, express regret, make amends."
+  },
+  {
+    "instruction": "What does DNA stand for?",
+    "input": "",
+    "output": "DNA stands for deoxyribonucleic acid."
+  },
+  {
+    "instruction": "Compare and contrast the Cuban Missile Crisis and the Vietnam War.",
+    "input": "",
+    "output": "The Cuban Missile Crisis and the Vietnam War were two of the largest and deadliest conflicts of the 20th century. The Cuban Missile Crisis involved a standoff between the United States and the Soviet Union over Soviet nuclear missile bases in Cuba, while the Vietnam War was a prolonged military conflict in Indochina between the North, which was backed by the Soviet Union and the South, which was backed by the United States. The Cuban Missile Crisis unfolded over a period of 13 days in October 1962, with the resolution coming in the form of a diplomatic agreement. The Vietnam War lasted for 19 years, beginning in 1954 and ending in 1973, with the signing of the Paris Peace Accords. While both of these conflicts were Cold War related, they were also very different in terms of causes, objectives, strategic objectives and outcomes. The Cuban Missile Crisis did not result in any direct military conflict and was resolved primarily through diplomacy and the decision to withdraw nuclear weapons from Cuba. On the other hand, the Vietnam War was a prolonged series of battles resulting in significant losses for both sides. The Vietnam War also had a significant impact on the United States, as it highlighted the realities of a prolonged conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force."
+  },
+  {
+    "instruction": "Generate a list of random words.",
+    "input": "",
+    "output": "- sneeze\n- conflict\n- ancestor\n- thunder\n- companion\n- amulet\n- forge\n- serpent\n- magnify\n- jester\n- cascade\n- universe\n- surge\n- nausea\n- oasis\n- anomaly\n- pursue\n- rapture\n- pagoda\n- mosaic."
+  },
+  {
+    "instruction": "Transcribe the recording into text.",
+    "input": "Recording about the history of Waterloo",
+    "output": "The Battle of Waterloo, fought on June 18, 1815, was the last major battle of the Napoleonic Wars. It marked the end of Napoleon Bonaparte's rule. The battle was fought between Napoleon Bonaparte's French forces and an allied force of British, Dutch, Belgian and Prussian troops, led by the Duke of Wellington. It was fought near the town of Waterloo in the former Austrian Netherlands, now present-day Belgium. The battle was a defeat for Napoleon's forces and ended Napoleon's rule over France. Napoleon himself was exiled to St. Helena, where he would die in 1821. The battle marked the end of French domination of Europe and the beginning of a period of peace in the region. It was also the last major battle of the Napoleonic Wars and is remembered as one of the most important battles in history. The victory of the allied forces at Waterloo helped to bring an end to French imperial ambitions in Europe. It also established the British as one of the most powerful nations in Europe. The battle was fought with a combination of infantry, cavalry, and artillery tactics, and showed the beginning of the changing nature of warfare. Although the French forces greatly outnumbered the allies, their strategic and tactical mistake led to the loss of the battle. This defeat signaled the end of French imperial power in Europe. The legacy of Waterloo still stands today, and it cemented the British Empire's position for the next one hundred years."
+  },
+  {
+    "instruction": "Who is the world's most famous painter?",
+    "input": "",
+    "output": "The world's most famous painter is generally considered to be the Italian renaissance artist Leonardo da Vinci. His work includes the Mona Lisa and The Last Supper, both of which are considered masterpieces. Da Vinci was also a master of science, inventing the helicopter and the tank, among other inventions. He was also a prolific musician, sculptor, and architect. His work has inspired generations of artists and continues to be revered today."
+  },
+  {
+    "instruction": "Explain the concept of cogging torque.",
+    "input": "",
+    "output": "Cogging torque is the torque that is applied to a rotating device when the device experiences resistance from the teeth of the gears that are connected to the device. Cogging torque occurs due to the reaction force generated when the teeth of the gear drive mesh. This force pushes against each other, resulting in a drag force that is transmitted from the gears to the shaft. The magnitude of the cogging torque can vary depending on the size and number of teeth, as well as the gear's material and design. Cogging torque is undesirable in most motorized applications, as it can lead to loss of efficiency. To reduce cogging torque, gear designs are often symmetrical or have certain tooth profiles which reduce the force of contact between the teeth when they come into contact with each other."
+  },
+  {
+    "instruction": "Look up the boiling point of water.",
+    "input": "",
+    "output": "The boiling point of water is 100°C (212°F), at standard atmospheric pressure. When heated at higher pressures, water's boiling point increases. For example, water will boil at a temperature of 115°C (239°F) at an atmospheric pressure of 1 bar. At higher pressures, such as those experienced at the bottom of the ocean, the boiling point of water can be as high as 374°C (705°F)."
+  },
+  {
+    "instruction": "Describe the life and reign of King Charles II.",
+    "input": "",
+    "output": "King Charles II ascended to the throne of England following the English Civil War and the death of his father, Charles I. He was crowned in 1661 and his reign lasted until his death in 1685. Charles II was also a patron of the arts, working with some of the greatest painters and sculptors of his day. He also encouraged theater and sports and had an interest in sciences such as astronomy and natural history. Charles II was a moderate ruler who respected the civil and religious liberties of his citizens. He was tolerant of other religions and gave Jews and Catholics more rights in the kingdom. Charles II was also a strong supporter of the Royal Navy, which saw England increase its power in the world. He also promoted the development of industry and commerce, which helped to modernize the country. Charles II's reign was an important step in restoring the monarchy of England after the turmoil of the English Civil War."
+  },
+  {
+    "instruction": "Find the area of a circle given its radius.",
+    "input": "Radius = 4",
+    "output": "The area of a circle with a radius of 4 is equal to 12.5664 square units. This is calculated by using the formula A = πr2, where A is the area, π is roughly equal to 3.1416 and r is the radius of the circle."
+  },
+  {
+    "instruction": "Identify the lines of longitude that divides North and South America.",
+    "input": "",
+    "output": "The lines of longitude that divides North and South America is the line of the Panama Canal. This line of longitude cuts through the Isthmus of Panama and separates South America from Central America. It is approximately 800 km (500 mi) in total length and was completed in 1914. The Panama Canal is an important shipping route and serves as an international waterway connecting the Caribbean Sea with the Pacific Ocean."
+  },
+  {
+    "instruction": "Explain the process of cellular respiration in plants.",
+    "input": "",
+    "output": "Cellular respiration in plants is a complex process in which the plant converts glucose into usable energy. The process begins when the plant takes in carbon dioxide from the environment and combines it with water to form glucose molecules using the energy from sunlight. This glucose is then broken down into simpler molecules of carbon dioxide and water. During this process, the energy released is used to produce adenosine triphosphate (ATP) molecules. ATP is used by the plant to power other processes, such as growth and reproduction. Additionally, the ATP can also be broken down further to produce heat energy, which helps to sustain the plant's temperature. The carbon dioxide and water molecules produced in the process are then released back into the environment to complete the cycle."
+  },
+  {
+    "instruction": "Rewrite the following sentence using active voice.",
+    "input": "The news report was read by the captain.",
+    "output": "The captain read the news report."
+  },
+  {
+    "instruction": "Generate a list of adjectives that describe a person as brave.",
+    "input": "",
+    "output": "- courageous\n- heroic\n- audacious\n- vigorous\n- valorous\n- resolute\n- intrepid\n- bold\n- brave\n- daring\n- tenacious\n- plucky\n- stout-hearted\n- doughty\n- gallant\n- fearless\n- undaunted\n- spirited\n- daredevil."
+  },
+  {
+    "instruction": "Outline the consequences of deforestation.",
+    "input": "",
+    "output": "Deforestation is the process of clearing and removing forests. The consequences of deforestation can include soil erosion, reduced water quality, decreased biodiversity, increased carbon dioxide in the atmosphere and loss of habitat for wildlife. Soil erosion occurs when the trees that help retain water and soil are removed, leading to soil particles being washed away. This can cause siltation in rivers and streams, affecting water quality and leading to flooding. Additionally, when trees are removed, wildlife lose their habitat. This can cause species to become endangered, leading to further loss of biodiversity. Deforestation can also lead to increased carbon dioxide in the atmosphere as there are fewer trees to take up the gas during photosynthesis, which can contribute to climate change."
+  },
+  {
+    "instruction": "Develop a plan to reduce electricity usage in a home.",
+    "input": "",
+    "output": "A plan to reduce electricity usage in a home can include a number of different strategies. These include replacing inefficient lightbulbs with energy-efficient LEDs, unplugging appliances and electronics when not in use, using natural light instead of electric lights where possible, using a touch-free faucet to reduce water heater use, using a smart thermostat to monitor and adjust temperatures automatically, installing a solar hot water heater, and turning off electronics when not in use. Additionally, making sure to install and seal windows and doors correctly to reduce air leakage can also help reduce electricity usage."
+  },
+  {
+    "instruction": "Arrange the words in the given sentence to form a grammatically correct sentence.",
+    "input": "quickly the brown fox jumped",
+    "output": "The quick brown fox jumped quickly."
+  },
+  {
+    "instruction": "Analyze the given text for its tone.",
+    "input": "The world has been greatly impacted by the COVID-19 pandemic and it has drastically changed our lives.",
+    "output": "The tone of the text is one of concern and recognition of the dramatic effects of the COVID-19 pandemic on the world. It is an acknowledgement of the upheaval that the virus has caused and that our lives have been drastically changed."
+  },
+  {
+    "instruction": "The sum of the digits of the year 2004 is 6. What is the first year after 2000 for which the sum of the digits is 12?",
+    "input": "",
+    "output": "To find the first year after 2000 for which the sum of the digits is 12, take the greatest possible units digit, 9. 2+9=11, so take 1 as the tens digit and 0 as the hundreds digit. The answer is therefore 2019."
+  },
+  {
+    "instruction": "Rewrite the given paragraph in a shorter, easier to understand form.",
+    "input": "Although it is generally accepted that the internet has allowed us to connect with people all over the world, there are still those people who are not familiar with its basic functions, who don’t understand why it has become so commonplace, or what its true capabilities are.",
+    "output": "The internet has allowed us to connect globally, even though some people are unfamiliar with its functions, don't comprehend its widespread use, and don't know its full potential."
+  },
+  {
+    "instruction": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n\nFounded in the 13th century, Berlin has had an eventful history. Excavations from 2008 suggest that the city may be even older than was previously assumed: state archaeologists have discovered an oak beam that probably dates back to 1183.\n\nAlmost no other metropolis has experienced such frequent, radical change transforming the face of the city. Although Berlin saw steady growth in its importance, dazzling epochs alternated with darker eras. Nevertheless, the formerly divided city has succeeded in becoming a vibrant metropolis in the heart of Europe.\n\nQuestion: What is the best restaurant in Berlin?",
+    "input": "",
+    "output": "I'm sorry, I cannot answer that question as the context given does not provide information about the best restaurant in Berlin."
+  },
+  {
+    "instruction": "Generate a poem that expresses joy.",
+    "input": "",
+    "output": "Joy flows through me like a river clear,\nBringing laughter and bliss to my soul to hear.\n\nThe world is bright and wonderful, I can see,\nMaking every moment something happy and free.\n\nMy heart feels light, my cares have flown,\nAs I discover what happiness gives me alone.\n\nI open my arms and accept the joy,\nBringing life to my song, so sweet like a toy.\n\nEvery moment is a precious gift,\nThat I savor and never let drift."
+  },
+  {
+    "instruction": "Find the real root of the equation \n sqrt(x) + sqrt(x+2) = 10.\n",
+    "input": "",
+    "output": "Subtracting sqrt(x) from both sides and then squaring, we get \n x+2 = (10-sqrt(x))^2 = x - 20sqrt(x) + 100.\nTherefore, 20sqrt(x) = 98, so sqrt(x) = 98/20 = 49/10. Therefore, x = (49/10)^2 = 2401/100, or x = 24.01."
+  },
+  {
+    "instruction": "Brainstorm possible solutions to reduce water pollution.",
+    "input": "",
+    "output": "- Implement stricter regulations on industrial waste disposal\n- Increase the use of green technology in wastewater treatment\n- Provide incentives to businesses that reduce their water consumption and waste generation\n- Educate citizens about water conservation and pollution prevention\n- Offer recycling programs to reduce plastic waste\n- Replace disposable plastics with biodegradable alternatives\n- Improve sewer systems\n- Re-introduce native plant species\n- Foster artificial wetlands and green infrastructure\n- Provide filtration systems at water treatment plants\n- Implement best practices for agricultural runoff\n- Increase research and monitoring of water quality\n- Establish buffer zones between aquatic environments and land-based activities."
+  },
+  {
+    "instruction": "Explain why the given definition is wrong.",
+    "input": "A mole is an animal that lives underground.",
+    "output": "The definition is wrong because a mole is actually a small mammal that lives above ground and feeds on insects. It is most distinguishable by its long snout and wide, paddle-like feet. It does, however, often dig burrows in which it lives and shelters."
+  },
+  {
+    "instruction": "Variable x is defined as “4x + 2y = 10”. Find the value of x.",
+    "input": "",
+    "output": "The value of x is 2. To find the value, simplify the equation by subtracting 2y from both sides, giving 4x = 10; dividing both sides by 4, giving x = 2/4, which is equal to 2."
+  },
+  {
+    "instruction": "Write a short paragraph about the given topic.",
+    "input": "The importance of using renewable energy",
+    "output": "The use of renewable energy is growing rapidly in relevance and importance as the world looks towards solutions to combat climate change. Renewable energy sources, such as solar, wind, and hydropower, are sustainable and have a much lower environmental impact than traditional energy sources like coal and oil. Switching to renewable energy can reduce carbon emissions, improve air quality, lessen the dependence on non-renewable resources, and provide a stable and secure energy future. Renewable energy is essential for achieving a sustainable future and should be an important part of any country’s energy portfolio."
+  },
+  {
+    "instruction": "Explain the concept of artificial intelligence in simple terms.",
+    "input": "",
+    "output": "Artificial Intelligence (AI) is the ability of machines and computers to make decisions and complete tasks similar to what humans can do. AI can learn from data, recognize patterns, and make predictions. AI technology can automate tedious and complex processes, helping to reduce human effort and errors, and enable more accurate and efficient decisions. AI can be used in a wide range of applications, from robotics and autonomous vehicles to healthcare and finance. It is increasingly becoming an integral part of everyday life."
+  },
+  {
+    "instruction": "Design an app for a delivery company.",
+    "input": "",
+    "output": "The app should allow customers to order items from local businesses and nearby store, place delivery requests with detailed delivery requirements, and track their orders. It should also allow customers to easily find and pay for services. The app should allow businesses to manage orders, track deliveries and drivers, set delivery boundaries, and set prices. It should also have features to help businesses promote their products and services, as well as options to provide customer feedback and support."
+  },
+  {
+    "instruction": "Summarize the given passage.",
+    "input": "A recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet.",
+    "output": "A recent study revealed that global climate change is one of the world’s most pressing issues. In addition to rising sea levels, extreme weather events and biodiversity loss, it is caused largely by human activities like burning fossil fuels. If left unchecked, climate change will have far-reaching and devastating consequences."
+  },
+  {
+    "instruction": "Extract the facts from the paragraph.",
+    "input": "Online education continues to become more popular for schools and students alike. Its advantages are generally lower costs, less commitment and the ability to study at a time, place and pace that suits the student.",
+    "output": "- Online education is becoming increasingly popular.\n- It has several advantages such as lower costs, less commitment and the ability to study at one’s own time and pace."
+  },
+  {
+    "instruction": "Edit the following sentence to make it more concise.",
+    "input": "He ran to the bus stop in order to catch the bus that was due to arrive in five minutes.",
+    "output": "He ran to the bus stop, due to arrive in five minutes."
+  },
+  {
+    "instruction": "Generate a poem with 10 lines.",
+    "input": "",
+    "output": "The evening light shimmers on the shore\nSoftly the waves echoes around and more \nAs I bask in the sun, my worries are all gone\nThe sound of seagulls I now foolishly ignore \nGlistening sand, beckons me with a silent plea \nGlistening seawater, cool to the touch and refreshingly free \nThe evening brings peace, yet I can't find any \nBut maybe in the morning there'll be time for me\nMy bottled peacefulness, I uncork and pour \nThe sound of the ocean, lulls me even more \nAnd for just a moment I close my eyes and behold \nThe vastness of the ocean, to my soul I now unfold."
+  },
+  {
+    "instruction": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n\nFounded in the 13th century, Berlin has had an eventful history. Excavations from 2008 suggest that the city may be even older than was previously assumed: state archaeologists have discovered an oak beam that probably dates back to 1183.\n\nAlmost no other metropolis has experienced such frequent, radical change transforming the face of the city. Although Berlin saw steady growth in its importance, dazzling epochs alternated with darker eras. Nevertheless, the formerly divided city has succeeded in becoming a vibrant metropolis in the heart of Europe.\n\nQuestion: What is the best restaurant in Berlin?",
+    "input": "",
+    "output": "Berlin was founded in the 13th century."
+  },
+  {
+    "instruction": "A recipe for 30 cookies requires two cups of flour among its ingredients. Eduardo wants to bake five dozen cookies. How many cups of flour will he need to use in his adjusted recipe?",
+    "input": "",
+    "output": "Eduardo wants to make twice as many cookies as the recipe makes. Therefore, he must double the amount of flour required: (2 cups)×2=4 cups."
+  },
+  {
+    "instruction": "Calculate the total surface area of a cube with a side length of 5 cm.",
+    "input": "",
+    "output": "Total surface area of the cube: 150 cm^2"
+  },
+  {
+    "instruction": "What is the force on a 1 kg mass due to the gravitational force?",
+    "input": "",
+    "output": "The force on a 1 kg mass due to the gravitational force is 9.8 N."
+  },
+  {
+    "instruction": "Provide one example for a cultural practice.",
+    "input": "",
+    "output": "An example of a cultural practice is the Japanese tea ceremony."
+  },
+  {
+    "instruction": "Given a set of numbers, find the maximum value.",
+    "input": "Set: {10, 3, 25, 6, 16}",
+    "output": "The maximum value is 25."
+  },
+  {
+    "instruction": "Give two examples of a liquid.",
+    "input": "",
+    "output": "Two examples of liquids are water and oil."
+  },
+  {
+    "instruction": "What is the product of 6 and 2?",
+    "input": "",
+    "output": "The product of 6 and 2 is 12."
+  },
+  {
+    "instruction": "What type of plant is a skunk cabbage?",
+    "input": "",
+    "output": "Skunk cabbage is a type of perennial flowering plant."
+  },
+  {
+    "instruction": "The Happy Valley Kennel has 4 chickens, 2 dogs, and 5 cats. (Some people in Happy Valley like to keep chickens as pets!) In how many ways can the 11 animals be placed in a row of 11 cages, such that all of the animals of each type are in adjacent cages? (Two animals of the same species are considered distinguishable.)",
+    "input": "",
+    "output": "To solve this problem, we first need to consider each group of animals separately. There are three groups of animals: chickens, dogs, and cats. We can order these groups in 3! ways.\n\nNext, we need to order the individual animals within each group. There are 4! ways to arrange the chickens, 2! ways to arrange the dogs, and 5! ways to arrange the cats.\n\nMultiplying all these values together, we get the total number of ways to arrange the animals: 3! x 4! x 2! x 5! = 34,560."
+  },
+  {
+    "instruction": "Name two types of desert biomes.",
+    "input": "",
+    "output": "Two types of desert biomes are xeric and subpolar deserts."
+  },
+  {
+    "instruction": "Given a sentence, convert it into passive voice.",
+    "input": "The dog barked at the alley cat.",
+    "output": "The alley cat was barked at by the dog."
+  },
+  {
+    "instruction": "Transform the following sentence into the passive voice",
+    "input": "I bought a book",
+    "output": "A book was bought by me."
+  },
+  {
+    "instruction": "Create a dialog between two people who are discussing a scientific phenomenon",
+    "input": "Hydropower",
+    "output": "Person 1: Did you know that hydropower is now being used to generate electricity?\nPerson 2: Really? That’s incredible! How does it work?\nPerson: 1: Well, hydropower utilizes the energy of moving water to generate electricity. By capturing and harnessing the energy of falling or flowing water, hydropower can be used for efficient electricity generation."
+  },
+  {
+    "instruction": "Identify the most suitable adverb for the following sentence",
+    "input": "She works",
+    "output": "She works diligently."
+  },
+  {
+    "instruction": "Find the main idea of the following passage",
+    "input": "Climate change is an increasingly contentious global issue. It is already having a drastic effect on the environment and human lives. We are already seeing an increase in extreme weather events and rising sea levels, both of which have a major impact on the planet.",
+    "output": "The main idea of the passage is that climate change is a global issue that is having a detrimental effect on the environment and has caused an increase in extreme weather events and rising sea levels."
+  },
+  {
+    "instruction": "Analyze the tone of the following sentences",
+    "input": "I am so upset with you right now",
+    "output": "The tone of the sentences is angry and accusatory."
+  },
+  {
+    "instruction": "Construct an argument to defend the following statement",
+    "input": "Alternative energy sources are critical to solving the climate crisis",
+    "output": "Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energies sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis."
+  },
+  {
+    "instruction": "Convert the following sentence into the present continuous tense",
+    "input": "He reads books",
+    "output": "He is reading books."
+  },
+  {
+    "instruction": "Give an example of a metaphor that uses the following object",
+    "input": "Stars",
+    "output": "The stars were twinkling diamonds in the night sky."
+  },
+  {
+    "instruction": "Create a description for a person with the following name",
+    "input": "John",
+    "output": "John is a tall, dark-haired man with a kind smile and a twinkle in his eyes. He has a gentle, caring nature, and he always strives to understand others. He has a passion for learning and exploring new places, experiences and cultures."
+  },
+  {
+    "instruction": "What is the ones digit of 7^35 when written as an integer?",
+    "input": "",
+    "output": "To find the ones digit of 7 raised to any positive integer n, we should look at the cycle of ones digits of 7^n, which is 7, 9, 3, 1. This cycle repeats every 4 powers of 7. Therefore, we need to find the remainder, R, when n is divided by 4 to determine the ones digit of 7^n. For example, for n = 35, we have 35 divided by 4 equals 8 with a remainder of 3. Thus, the ones digit of 7^35 is the third digit in the cycle which is 3."
+  },
+  {
+    "instruction": "Aim to reduce the following sentence without changing its meaning",
+    "input": "When he came in, he woke everyone up",
+    "output": "He woke everyone on entering."
+  },
+  {
+    "instruction": "Identify the conjunctions in the following sentence",
+    "input": "She wrote a letter and sealed it",
+    "output": "The conjunctions in the sentence are \"and\"."
+  },
+  {
+    "instruction": "Rewrite the following sentence in the third person",
+    "input": "I am anxious",
+    "output": "She is anxious."
+  },
+  {
+    "instruction": "Generate a list of business ideas for a food delivery service.",
+    "input": "",
+    "output": "- Offer discounts and loyalty programs for frequent customers.\n- Partner with local restaurants and promote their food.\n- Train delivery personnel to handle orders and provide good customer service.\n- Use mobile apps and websites for ordering.\n- Offer diverse payment options for customers.\n- Allow customers to customize their orders.\n- Pack food in recyclable and compostable packaging.\n- Launch a subscription model for regular customers.\n- Offer special services like food suggestions based on customers' preferences.\n- Provide contactless delivery and curbside pickup.\n- Provide catering services for large orders and special events.\n- Use online marketing and social media platforms to reach more customers.\n- Create incentives to encourage customers to try new dishes.\n- Create meal kits with all the necessary ingredients and a recipe.\n- Make use of food delivery robots and drones.\n- Offer a loyalty points system for customers.\n- Collaborate with local farmers to source produce and ingredients.\n- Offer vegetarian, vegan, and gluten-free options.\n- Allow customers to select the delivery time.\n- Implement AI-powered recommendations for customers."
+  },
+  {
+    "instruction": "Edit the following sentence to improve clarity and flow.",
+    "input": "The restaurant has great food though the prices are a bit hefty",
+    "output": "The restaurant offers great food but at a slightly higher price."
+  },
+  {
+    "instruction": "Imagine you are speaking with a customer who is unsatisfied with the product they bought from you. Construct a response that diffuses the situation.",
+    "input": "",
+    "output": "I'm sorry that you're not happy with your purchase. We want all of our customers to be satisfied, so I'd like to offer you a full refund, as well as a 15% discount for your next purchase. Is there anything else I can do to make this right for you?"
+  },
+  {
+    "instruction": "Explain the concept of a bubble sort algorithm to a non-technical audience.",
+    "input": "",
+    "output": "Imagine all your friends put their name and phone number on a strip of paper, and all those strips were placed into a bag and mixed around. You want a list of all these contacts, but you need them in alphabetical order to be useful. Here's how to use a bubble sort to do that:\n1) Lay all the names out left-to-right. \n2) Start at the farthest left strip. Compare it to the strip on its right. If the name is later in the alphabet than the name of its righthand neighbor, swap their places.\n3) Now look at the second-from-the-left strip (this might be the same strip again, if it just swapped places). Compare its name to its righthand neighbor just like before. Swap them if necessary.\n4) Continue this process until you reach the farthest right strip. You now know that the farthest right strip has the name of the person latest in the alphabet. By moving through and swapping as necessary, you 'bubbled up' the latest-in-alphabet name, which is where the name bubble sort comes from.\n5) Now return to the farthest left, and do the same process again, but this time you can stop at the second-from-right-most strip because you already know it's the latest-in-alphabet name.\n6) Again, back to the far left strip, repeat the process, and stop at the third-from-right-most strip.\n7) Continue until the entire list is sorted.\n\nBubble sorting like this is very simple, but it can be very time consuming on long lists. Other approaches may be recommended for longer lists."
+  },
+  {
+    "instruction": "Classify the following incident as a breach of protocol. Output 1 for breach, and 0 for no breach.",
+    "input": "Using a school laptop for personal use",
+    "output": "1"
+  },
+  {
+    "instruction": "Given the following input, construct a creative story.",
+    "input": "A magic bow and arrow",
+    "output": "Once upon a time, there lived a young girl named Alexa who was gifted with an incredible magical bow and arrow. Whenever she pulled back her bow and let an arrow fly, wherever it landed, something extraordinary happened. Flowers bloomed, oceans calmed, and the sun shone brighter. Alexa's bow and arrow were so powerful, that it could make even the most impossible things possible. One day, during a great storm, Alexa used her magical bow and arrow to bring calm and harmony to her hometown. She was praised and celebrated by the whole town, and she soon became a symbol of hope and peace."
+  },
+  {
+    "instruction": "Generate a list of methods to reduce food waste.",
+    "input": "",
+    "output": "- Shop smarter and only buy what you need.\n- Save leftovers for later and freeze them if necessary. \n- Monitor expiration dates and consume items before they go bad.\n- Participate in community or public food sharing initiatives.\n- Compost leftover food scraps.\n- Reuse containers, jars, and bags.\n- Make use of restaurant discounts to reduce over-ordering. \n- Donate foods that have short expiration dates to local food banks. \n- Buy more produce that is close to the expiration date and prepare it soon.\n- Order small portions while dining out.\n- Educate yourself and others about food waste.\n- Plan meals in advance and base your grocery list on the meals. \n- Store food correctly to reduce spoilage.\n- Make sure your fridge is at the right temperature.\n- Have a system to track leftovers in the fridge. \n- Eat all edible parts of food, including stems and skins.\n- Use creative recipes to use the entire food item.\n- Use food that would otherwise be thrown away for animal feed.\n- Take part in campaigns to make food sustainability an issue."
+  },
+  {
+    "instruction": "Propose an idea for a self-driving car.",
+    "input": "",
+    "output": "My idea for a self-driving car is to develop an AI system that uses machine learning to help the car recognize its environment. The AI system will also be able to learn from its mistakes and increase its accuracy. Additionally, the self-driving car will be able to detect potential hazards and warn the driver, or take corrective action if necessary. The car will also be equipped with an emergency button, in case the driver needs to take manual control of the vehicle. Furthermore, the car will be capable of automated parking and will be able to drive itself to a nearby charging station when the battery is low. Finally, the software will be able to connect with smartphones, so the user can access their navigation system and entertainment options even while on the move."
+  },
+  {
+    "instruction": "Explain the concept of a linear regression model using simple language.",
+    "input": "",
+    "output": "A linear regression model is a type of machine learning model that can be used to predict or estimate the value of a continuous numerical variable from a set of input variables. In this model, a line is fitted to a set of data points such that the sum of the squared distance of the data points from the line is minimized. This line of best fit can then be used to estimate the value of the output variable based on the values of the input variables."
+  },
+  {
+    "instruction": "Construct a list of tips to help reduce stress.",
+    "input": "",
+    "output": "- Take a time out and acquire some rest when feeling overwhelmed. \n- Make time for yourself and learn to relax. \n- Exercise regularly and get plenty of sleep. \n- Listen to music you like, or take a warm bath. \n- Stick to a healthy diet full of essential vitamins and minerals.\n- Reach out to friends and family for support.\n- Try aromatherapy or yoga. \n- Do something creative like drawing, painting, or writing. \n- Engage in activities that bring you joy and peace of mind. \n- Avoid drugs or excessive amounts of alcohol. \n- Practice deep breathing and progressive muscle relaxation. \n- Take up a new hobby to stay occupied. \n- Break big tasks down into smaller, more manageable tasks. \n- Practice positive self-talk to keep your morale high. \n- Talk to a therapist or trusted mentor if necessary. \n- Make time for fun activities and social events. \n- Prioritize tasks and create a weekly schedule. \n- Create a plan of action and identify solutions to problems. \n- Learn to forgive yourself and others."
+  },
+  {
+    "instruction": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n\nFounded in the 13th century, Berlin has had an eventful history. Excavations from 2008 suggest that the city may be even older than was previously assumed: state archaeologists have discovered an oak beam that probably dates back to 1183.\n\nAlmost no other metropolis has experienced such frequent, radical change transforming the face of the city. Although Berlin saw steady growth in its importance, dazzling epochs alternated with darker eras. Nevertheless, the formerly divided city has succeeded in becoming a vibrant metropolis in the heart of Europe.\n\nQuestion: What events occurred in 20th century Berlin?",
+    "input": "",
+    "output": "The context provided does not provide specific information about the events that occurred in 20th century Berlin. However, as Berlin has had an eventful history, it is known that the city has undergone frequent and radical changes throughout its history, including in the 20th century, which saw both bright and dark periods."
+  },
+  {
+    "instruction": "Create a Twitter post to promote your new product.",
+    "input": "Alisha's All Natural Jam",
+    "output": "Introducing Alisha's All Natural Jam, handmade with love using only the finest ingredients! Get ready for a delicious treat that will give your tastebuds a flavor explosion! Try our five amazing flavors: Strawberry, Blueberry, Peach, Raspberry, and Blackberry. Buy now and snack with the world! #snacktime #allnatural #jam #tastebuds #freshfruit #homemade #delicious #salttw"
+  },
+  {
+    "instruction": "Given the following input, classify the verb as transitive or intransitive.",
+    "input": "improve",
+    "output": "Transitive."
+  },
+  {
+    "instruction": "Generate a list of marketing strategies to promote a new mobile app.",
+    "input": "",
+    "output": "- Implement paid campaigns on social media platforms.\n- Utilize influencer marketing.\n- Reach out to tech bloggers and websites.\n- Share the app through word of mouth among friends.\n- Create demo videos and tutorials to explain the app's features.\n- Offer discounts and special incentives to early adopters.\n- Build a basic website to explain the app's purpose and features. \n- Take advantage of app store optimization techniques.\n- Send out emails and newsletters to inform new users about the app.\n- Aim for awards and good reviews on the app store.\n- Include the app link in your email signature.\n- Try promotional press releases and campaigns.\n- Encourage users to rate and review the app on the app store.\n- Leverage user-generated content to your advantage. \n- Integrate the app with existing or popular apps.\n- Hold giveaways or contests to drive engagement.\n- Feature the app on your company's website and blog.\n- Cross-promote the app with other apps, websites, and social media platforms. \n- Create promotional content such as blogs and podcasts."
+  },
+  {
+    "instruction": "Rewrite the sentence to provide more clarity and flow.",
+    "input": "Making the decision to rent a house was a wise choice",
+    "output": "Renting a house was a wise decision to make."
+  },
+  {
+    "instruction": "Give a description of the following customer segment.",
+    "input": "Online shoppers in the US aged between 18-25",
+    "output": "This customer segment consists of online shoppers in the US aged between 18-25. They are typically young adults who are tech-savvy and prefer to shop online for convenience and variety. They often shop for a variety of items, ranging from clothing to electronics and are comfortable using different payment methods such as credit or debit cards and digital wallets."
+  },
+  {
+    "instruction": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n\nPreviously, the use of dye-sub printing was limited to industrial or high-end commercial printing. Dye-sub photo printing has been used in medical imaging, graphic arts proofing, security, and broadcast-related applications. Today, it is extremely popular in event photography and photo booths or kiosks that require high-speed, on-demand printing.\n\nAlps Electric produced the first quality dye-sub printers for home consumers in the $500–$1,000 price range, bringing dye-sublimation technology within the reach of a wider audience. (These models were, however, not true page printers, since they used a narrow printhead that swept across the page, like most inkjet printers.) Now there are many dye-sublimation printers on the market starting from as low as $100, especially postcard-sized mobile photo printers.\n\nThe ability to produce instant photo prints inexpensively from a small printer has led to dye sublimation solutions supplanting traditional instant photos in some applications, such as ID photography with a card printer.\n\nSeveral corporations market desktop-size units as stand-alone printers and for print kiosk and photo booth applications. Some of these units are based on generic printers. Some manufacturers, offer software development kits with their printers, suggesting that these companies hope to attract system integrators as a potential market.\n\nDesktop-size standalone dye-sub photo printers are also used by photographers in event photography. The technology allows photographers to produce and sell lab-quality prints immediately during the event they are attending, with a minimal amount of hardware. \n\nQuestion: What are the uses of a dye sublimation printer?",
+    "input": "",
+    "output": "Dye sublimation printers are used for industrial or high-end commercial printing, medical imaging, graphic arts proofing, security, broadcast-related applications, event photography, and photo booths or kiosks that require high-speed, on-demand printing. They can produce instant photo prints inexpensively and are popular for ID photography with a card printer. Desktop-size standalone dye-sub photo printers are also used by photographers in event photography, allowing them to produce and sell lab-quality prints immediately during the event they are attending with minimal hardware."
+  },
+  {
+    "instruction": "Generate a list of country names in the western hemisphere.",
+    "input": "",
+    "output": "- Canada\n- United States \n- Mexico \n- Brazil\n- Argentina \n- Chile \n- Colombia \n- Venezuela \n- Cuba\n- Jamaica \n- Ecuador\n- Peru \n- Uruguay\n- Paraguay \n- Costa Rica \n- Panama \n- Honduras \n- Nicaragua\n- Guatemala"
+  },
+  {
+    "instruction": "Translate the following phrase into French.",
+    "input": "I miss you",
+    "output": "Je te manque."
+  },
+  {
+    "instruction": "Explain what an API is.",
+    "input": "",
+    "output": "API stands for Application Programming Interface. It is a set of instructions or programming instructions that allow two applications to communicate and exchange data with each other. APIs provide a way for developers to access and manipulate data and services offered by other applications or platforms. They are an essential part of modern web development and allow developers to develop complex applications and websites using modular components."
+  },
+  {
+    "instruction": "Compute the area of a rectangle with length 10cm and width 5cm.",
+    "input": "",
+    "output": "The area of the rectangle is 50 cm2."
+  },
+  {
+    "instruction": "Find the capital of Spain.",
+    "input": "",
+    "output": "The capital of Spain is Madrid."
+  },
+  {
+    "instruction": "Classify the following statement as true or false.",
+    "input": "The Supreme Court is the highest court in the US.",
+    "output": "True."
+  },
+  {
+    "instruction": "Design a database schema to record employee salaries.",
+    "input": "",
+    "output": "Here is a possible database schema for recording employee salaries:\n\nTable: employees\n- id (primary key)\n- name\n- email\n- department_id (foreign key referencing departments.id)\n\nTable: departments\n- id (primary key)\n- name\n\nTable: salaries\n- id (primary key)\n- employee_id (foreign key referencing employees.id)\n- salary\n- start_date\n- end_date (optional)\n\nThe \"employees\" table stores information about each employee, including their name, email address, and department. The \"departments\" table stores information about each department, including its name. The \"salaries\" table stores information about each employee's salary, including the employee's ID, salary amount, and the start and end dates of the salary period.\n\nNote that this schema assumes that each employee is only associated with one department at a time. If an employee can be associated with multiple departments, you may need to modify the schema accordingly. Additionally, you may want to add additional fields to the tables to store more information, such as job titles, employee IDs, or manager information, depending on your specific needs."
+  },
+  {
+    "instruction": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\n\nPreviously, the use of dye-sub printing was limited to industrial or high-end commercial printing. Dye-sub photo printing has been used in medical imaging, graphic arts proofing, security, and broadcast-related applications. Today, it is extremely popular in event photography and photo booths or kiosks that require high-speed, on-demand printing.\n\nAlps Electric produced the first quality dye-sub printers for home consumers in the $500–$1,000 price range, bringing dye-sublimation technology within the reach of a wider audience. (These models were, however, not true page printers, since they used a narrow printhead that swept across the page, like most inkjet printers.) Now there are many dye-sublimation printers on the market starting from as low as $100, especially postcard-sized mobile photo printers.\n\nThe ability to produce instant photo prints inexpensively from a small printer has led to dye sublimation solutions supplanting traditional instant photos in some applications, such as ID photography with a card printer.\n\nSeveral corporations market desktop-size units as stand-alone printers and for print kiosk and photo booth applications. Some of these units are based on generic printers. Some manufacturers, offer software development kits with their printers, suggesting that these companies hope to attract system integrators as a potential market.\n\nDesktop-size standalone dye-sub photo printers are also used by photographers in event photography. The technology allows photographers to produce and sell lab-quality prints immediately during the event they are attending, with a minimal amount of hardware. \n\nQuestion: Is the Epson F7100 a dye sub printer?",
+    "input": "",
+    "output": "I'm sorry, but I don't have enough contextual information about the Epson F7100 to answer that question."
+  },
+  {
+    "instruction": "Assign each word in the sentence below to its part of speech.",
+    "input": "Kittens often scamper around excitedly.",
+    "output": "Kittens - Noun \noften - Adverb \nscamper - Verb \naround - Preposition \nexcitedly - Adverb"
+  },
+  {
+    "instruction": "Generate a password of 8 characters.",
+    "input": "",
+    "output": "e9gKyd2D"
+  },
+  {
+    "instruction": "Suggest what content a web page about robotics should consist of.",
+    "input": "",
+    "output": "The web page should include an introduction to robotics, covering what it is and how it can be applied in various industries. It should also include a section on the history of robotics, an overview of major advances in the field, and current trends. Information about the different types of robots and their applications should be included, as well as links to resources for further research."
+  },
+  {
+    "instruction": "What is the most commonly shared type of content on social media?",
+    "input": "",
+    "output": "The most commonly shared type of content on social media is images."
+  },
+  {
+    "instruction": "What is the main idea of this text?",
+    "input": "The robotics industry has become one of the fastest growing sectors in today’s economy. Robotics technology is being applied in various industries and applications, such as manufacturing, healthcare, and defense.",
+    "output": "The main idea of this text is that robotics technology is being used in many different industries and applications and is a rapidly growing sector of today's economy."
+  },
+  {
+    "instruction": "Generate a list of present continuous verbs.",
+    "input": "",
+    "output": "- running\n- eating\n- sleeping\n- calling\n- texting\n- working\n- reading\n- watching\n- writing\n- listening\n- playing\n- cooking\n- shopping\n- dancing\n- studying\n- walking\n- driving\n- flying\n- jumping\n- laughing."
+  },
+  {
+    "instruction": "Think of a phrase or idiom containing the word \"sleep\".",
+    "input": "",
+    "output": "Sleep like a log."
+  },
+  {
+    "instruction": "Describe what will likely happen in the next paragraph.",
+    "input": "Mary had been living in the small town for many years and had never seen anything like what was coming.",
+    "output": "It appears that something extraordinary and unprecedented will happen in the next paragraph."
+  },
+  {
+    "instruction": "Generate a headline for the following article.",
+    "input": "This article discusses the future of renewable energy sources in the US.",
+    "output": "Renewable Energy Sources are the Future of the US"
+  },
+  {
+    "instruction": "What type of punctuation should be used at the end of the following sentence?",
+    "input": "We should look at the bird",
+    "output": "A period (.) should be used at the end of the sentence, or an exclamation point (!) if there was excitement or urgency."
+  },
+  {
+    "instruction": "Identify the incorrect word and suggest a better version.",
+    "input": "The waitress served a humonguous burger.",
+    "output": "The incorrect word is \"humonguous\" and it should be replaced with \"huge\"."
+  },
+  {
+    "instruction": "Rewrite this sentence using the third person point of view.",
+    "input": "I went to the store.",
+    "output": "He/She went to the store."
+  },
+  {
+    "instruction": "Change this sentence into the future tense.",
+    "input": "She walks to school.",
+    "output": "She will walk to school."
+  },
+  {
+    "instruction": "Summarize the following article in your own words.",
+    "input": "The internet has become a critical part of modern life and it has revolutionized the way we communicate and conduct business. It has enabled the spread of ideas and experiences quickly, globally, and cheaply.",
+    "output": "The internet has drastically changed our lives by allowing us to easily and quickly communicate and conduct business across the globe. It has enabled the rapid spread of ideas and experiences worldwide."
+  },
+  {
+    "instruction": "What is the meaning of the following idiom?",
+    "input": "It’s raining cats and dogs",
+    "output": "The idiom \"it’s raining cats and dogs\" means that it is raining heavily."
+  },
+  {
+    "instruction": "Generate a sentence using the following words in the correct order.",
+    "input": "house on fire",
+    "output": "The house was on fire."
+  },
+  {
+    "instruction": "Is the sentence grammatically correct?",
+    "input": "The boy was playing with her toys.",
+    "output": "Yes, the sentence is grammatically correct."
+  },
+  {
+    "instruction": "Classify the relationship between John and Mary.",
+    "input": "John and Mary have the same mother and same father.",
+    "output": "John and Mary are siblings."
+  },
+  {
+    "instruction": "Identify the language used in the given sentence.",
+    "input": "Il est incroyable.",
+    "output": "The sentence is in French."
+  },
+  {
+    "instruction": "Generate a summary of the given article.",
+    "input": "Between 1989 and 2019, the size of the U.S. economy, measured in terms of the gross domestic product (GDP), more than doubled. The growth was faster than in the prior two decades, driven in part by the dramatic expansion of the information technology sector in the 1990s and early 2000s, gains in worker productivity and strong consumer demand, and government investments in research and development.",
+    "output": "The U.S. economy more than doubled in size between 1989 and 2019, largely due to the rise of the information technology sector, improvements in worker productivity and consumer demand, and government investments. This growth was faster than in the prior two decades."
+  },
+  {
+    "instruction": "Convert 94F to celsius",
+    "input": "",
+    "output": "Assuming you meant to convert 94°F to Celsius, the conversion formula is:\n\nCelsius = (Fahrenheit - 32) x 5/9\n\nPlugging in the value of 94°F:\n\nCelsius = (94 - 32) x 5/9\nCelsius = 62 x 5/9\nCelsius = 34.4\n\nTherefore, 94°F is equivalent to 34.4°C."
+  },
+  {
+    "instruction": "Construct a phrase using the given words",
+    "input": "Pandemic, challenge, action",
+    "output": "Our action in the face of the pandemic is the ultimate challenge."
+  },
+  {
+    "instruction": "Find the synonyms of the following word: 'Tenacious'.",
+    "input": "",
+    "output": "- Persistent\n- Dogged\n- Determined\n- Resolute\n- Steadfast\n- Unwavering\n- Unyielding\n- Persistent\n- Persistent"
+  },
+  {
+    "instruction": "Suggest a good restaurant.",
+    "input": "Los Angeles, CA",
+    "output": "In Los Angeles, CA, I suggest Rossoblu Italian restaurant."
+  },
+  {
+    "instruction": "Calculate the area of the triangle.",
+    "input": "Base: 5cm; Height: 6cm",
+    "output": "The area of the triangle is 15 cm²."
+  },
+  {
+    "instruction": "Rewrite the sentence with more descriptive words.",
+    "input": "The game is fun.",
+    "output": "The game is exhilarating and enjoyable."
+  },
+  {
+    "instruction": "Generate a creative birthday wish for a friend.",
+    "input": "",
+    "output": "Happy birthday! May this special day bring you joy, laughter, and all the blessings you deserve. Have a wonderful year ahead!"
+  },
+  {
+    "instruction": "Make the second sentence shorter.",
+    "input": "Winter is usually the coldest season of the year. Snow is a common element during winter.",
+    "output": "Winter is the coldest season, often accompanied by snow."
+  },
+  {
+    "instruction": "Find the solution to the quadratic equation.",
+    "input": "x² - 7x + 10 = 0",
+    "output": "The solution of the quadratic equation is x = 2 and x = 5."
+  },
+  {
+    "instruction": "Let x and y be nonzero real numbers. Let m and M be the minimium value and maximum value of\n\n (|x + y|)/(|x| + |y|),\nrespectively. Find M - m.",
+    "input": "",
+    "output": "We're given two nonzero real numbers x and y, and asked to find the minimum m and maximum M of the expression:\n\n(|x + y|)/(|x| + |y|)\n\nTo find the minimum, we want to make the expression as small as possible. Since both |x + y| and |x| + |y| are nonnegative, (|x + y|)/(|x| + |y|) must also be nonnegative. We can set x = 1 and y = -1 to get:\n\n(|x + y|)/(|x| + |y|) = (|0|)/(|1| + |-1|) = 0/2 = 0\n\nThis shows that the minimum value of the expression is 0.\n\nTo find the maximum, we want to make the expression as large as possible. By the Triangle Inequality, we know that:\n\n|x + y| ≤ |x| + |y|\n\nSo we have:\n\n(|x + y|)/(|x| + |y|) ≤ (|x| + |y|)/(|x| + |y|) = 1\n\nThis shows that the maximum value of the expression is 1. Equality occurs when x = y.\n\nTherefore, the range of the expression is [0, 1], and the difference between the maximum and minimum values is:\n\nM - m = 1 - 0 = 1"
+  },
+  {
+    "instruction": "Rewrite the sentence in a different tense.",
+    "input": "He asked her to join him for lunch.",
+    "output": "He had asked her to join him for lunch."
+  },
+  {
+    "instruction": "Classify the following data with one of the three following labels. 1. Alphabetical Data\n2. Numeric Data\n3. Alpha-numeric data",
+    "input": "fjsklfjdsklfjsklfjsklfjs",
+    "output": "1. Alphabetical Data"
+  },
+  {
+    "instruction": "Compose a five word sentence describing your day.",
+    "input": "",
+    "output": "Today was an amazing day."
+  },
+  {
+    "instruction": "You are a smart assistant designed to help high school teachers come up with reading comprehension questions.\nGiven a piece of text, you must come up with a question and answer pair that can be used to test a student's reading comprehension abilities.\nWhen coming up with this question/answer pair, you must respond in the following format:\n```\n{{\n    \"question\": \"$YOUR_QUESTION_HERE\",\n    \"answer\": \"$THE_ANSWER_HERE\"\n}}\n```\nEverything between the ``` must be valid json.\nPlease come up with a question/answer pair, in the specified JSON format, for the following text:\n----------------\nPreviously, the use of dye-sub printing was limited to industrial or high-end commercial printing. Dye-sub photo printing has been used in medical imaging, graphic arts proofing, security, and broadcast-related applications. Today, it is extremely popular in event photography and photo booths or kiosks that require high-speed, on-demand printing.\n\nAlps Electric produced the first quality dye-sub printers for home consumers in the $500–$1,000 price range, bringing dye-sublimation technology within the reach of a wider audience. (These models were, however, not true page printers, since they used a narrow printhead that swept across the page, like most inkjet printers.) Now there are many dye-sublimation printers on the market starting from as low as $100, especially postcard-sized mobile photo printers.\n\nThe ability to produce instant photo prints inexpensively from a small printer has led to dye sublimation solutions supplanting traditional instant photos in some applications, such as ID photography with a card printer.\n\nSeveral corporations market desktop-size units as stand-alone printers and for print kiosk and photo booth applications. Some of these units are based on generic printers. Some manufacturers, offer software development kits with their printers, suggesting that these companies hope to attract system integrators as a potential market.\n\nDesktop-size standalone dye-sub photo printers are also used by photographers in event photography. The technology allows photographers to produce and sell lab-quality prints immediately during the event they are attending, with a minimal amount of hardware.",
+    "input": "",
+    "output": "{\n    \"question\": \"What are some of the applications of dye-sub photo printing?\",\n    \"answer\": \"Dye-sub photo printing has been used in medical imaging, graphic arts proofing, security, and broadcast-related applications.\"\n}"
+  },
+  {
+    "instruction": "Change the following sentence from the singular form to the plural form.",
+    "input": "The cat is drinking.",
+    "output": "The cats are drinking."
+  },
+  {
+    "instruction": "Compile a list of 5 US states located in the Mid West.",
+    "input": "",
+    "output": "The 5 US states located in the Midwest are:\n- Illinois\n- Indiana\n- Michigan\n- Ohio\n- and Wisconsin."
+  },
+  {
+    "instruction": "Analyze the following sentence and find the direct object.",
+    "input": "She wrote a book.",
+    "output": "The direct object of the sentence is \"book\"."
+  },
+  {
+    "instruction": "During the last member meeting, create a list of 5 ideas to improve the club.",
+    "input": "",
+    "output": "At the last member meeting, the following 5 ideas to improve the club were suggested:\n1. Increase the frequency of meetings\n2. Create a mentorship program\n3. Develop a website to advertise the club\n4. Create a budget to finance activities\n5. Offer incentives to encourage participation."
+  },
+  {
+    "instruction": "Edit the following sentence to correct the grammar and syntax errors",
+    "input": "You was late to the party",
+    "output": "You were late to the party."
+  },
+  {
+    "instruction": "Create a questions that can be answered using the following sentence.",
+    "input": "\"It was a beautiful day\"",
+    "output": "What type of day was it?"
+  },
+  {
+    "instruction": "Write a simple definition of the word \"economics\".",
+    "input": "",
+    "output": "Economics is the study of how society uses its limited resources to produce and distribute goods and services."
+  },
+  {
+    "instruction": "Find the cutoff score for successful completion of the exam",
+    "input": "The exam had 100 multiple-choice questions with 4 options each",
+    "output": "The cutoff score for successful completion of the exam is 75."
+  },
+  {
+    "instruction": "Generate a topic sentence to introduce the following text.",
+    "input": "Amidst increasing violence in the region, many civilians are fleeing their homes in search of safety.",
+    "output": "Due to the escalating tensions and violence, countless civilians are being forced from their homes in fear for their lives."
+  },
+  {
+    "instruction": "Write a function to calculate the factorial of a given number.",
+    "input": "",
+    "output": "```\ndef factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n-1)\n```"
+  },
+  {
+    "instruction": "Write a function to convert a given string to uppercase unless it starts with the string \"Rejected\"",
+    "input": "",
+    "output": "Here's a Python implementation of the function:\n\n```\ndef uppercase_unless_rejected(string):\n    if string.startswith(\"Rejected\"):\n        return string\n    else:\n        return string.upper()\n```\n\nThis function first checks if the string starts with the substring \"Rejected\". If it does, it simply returns the original string, without any uppercase transformation. If, on the other hand, the string does not start with \"Rejected\", the function returns a new string which is the uppercase version of the original string."
+  },
+  {
+    "instruction": "Extract the positive integers from an array?",
+    "input": "arr = [5,-2,8,-7,3,-1,0,5]",
+    "output": "[5, 8, 3, 5]"
+  },
+  {
+    "instruction": "Write a javascript function which calculates the square root of a number without any libraries.",
+    "input": "",
+    "output": "Sure, here's an example:\n\n```\nfunction calculateSquareRoot(num) {\n  if (num < 0) return NaN;\n  if (num === 0) return 0;\n  let x = num;\n  while (true) {\n    const new_x = (x + num / x) / 2;\n    if (Math.abs(new_x - x) < 0.000001) return new_x;\n    x = new_x;\n  }\n}\n```\n\nThis function uses the Babylonian method for computing square roots, which is an iterative method that repeatedly improves the estimate of the square root using the formula: `x_(n+1) = (x_n + num / x_n) / 2`. The loop continues until the difference between the current estimate and the previous estimate is less than some small epsilon (in this case, `0.000001`)."
+  },
+  {
+    "instruction": "Reverse a linked list using haskel.",
+    "input": "",
+    "output": "Sure, here's one way to reverse a linked list in Haskell, using pattern matching and recursion:\n\n```\ndata LinkedList a = Nil | Cons a (LinkedList a)\n\nreverseLinkedList :: LinkedList a -> LinkedList a\nreverseLinkedList list = reverseLinkedListHelper list Nil\n  where\n    reverseLinkedListHelper Nil acc = acc\n    reverseLinkedListHelper (Cons x xs) acc = reverseLinkedListHelper xs (Cons x acc)\n```\n\nThe `LinkedList` type definition represents a singly linked list with a head element of type `a` and a tail of another linked list. \n\nThe `reverseLinkedListHelper` function is a helper function that uses tail recursion to reverse the list by iterating over each element in the original list and adding it to the front of the accumulating list `acc`, until the original list is empty (represented by `Nil` in the pattern matching). \n\nThe `reverseLinkedList` function is the top-level function that initializes the accumulating list `acc` as empty, then calls the `reverseLinkedListHelper` function with the original list and empty `acc`. This returns the reversed linked list."
+  },
+  {
+    "instruction": "Compute the longest increasing subsequence of a given array?",
+    "input": "arr = [7, 10, 8, 11, 9, 5]",
+    "output": "[7, 8, 9, 11]"
+  },
+  {
+    "instruction": "我们如何在日常生活中减少用水？",
+    "input": "",
+    "output": "1. 使用节水装置，如节水淋浴喷头和水龙头。 \n2. 使用水箱或水桶收集家庭废水，例如洗碗和洗浴。 \n3. 在社区中提高节水意识。 \n4. 检查水管和灌溉系统的漏水情况，并及时修复它们。 \n5. 洗澡时间缩短，使用低流量淋浴头节约用水。 \n6. 收集雨水，用于园艺或其他非饮用目的。 \n7. 刷牙或擦手时关掉水龙头。 \n8. 减少浇水草坪的时间。 \n9. 尽可能多地重复使用灰水（来自洗衣机、浴室水槽和淋浴的水）。 \n10. 只购买能源效率高的洗碗机和洗衣机。"
+  },
+  {
+    "instruction": "编辑文章，使其更吸引读者。",
+    "input": "自主机器人是计算机控制的机器，被编程执行特定任务而不需要任何人类输入。自主机器人在各个行业中被越来越广泛地应用，从制造业到医疗保健再到安全。",
+    "output": "自主机器人是计算机控制的机器，被编程执行特定任务而不需要任何人类输入，从而实现了新的效率、精确度和可靠性水平。自主机器人在各个行业中被越来越广泛地应用，从制造业，它们可以使用精度和一致的质量组装复杂的组件，到医疗保健，可以协助进行医疗测试和处理，再到安全，可以监控大面积地区，保障人们和财产的安全。自主机器人还可以减少在危险或有害环境中的错误和增加安全，在工业流程的检查或维修期间等。由于其多样性，自主机器人将彻底改变我们工作方式的方式，使任务变得更加简单、快速，最终更加愉悦。"
+  },
+  {
+    "instruction": "政府可以采取哪些策略来减少空气污染？",
+    "input": "",
+    "output": "1. 实施强制的车辆排放标准和基于激励的计划，以降低车辆的碳足迹。\n2. 增加公共交通工具，减少公众对车辆的依赖。\n3. 增加对空气污染的影响的认识，鼓励市民减少污染物的生成。\n4. 投资于可再生能源的研究和开发，如太阳能和风能。\n5. 在工厂和发电厂安装空气污染控制装置，例如洗涤器。\n6. 对车辆和工厂使用清洁燃料。\n7. 实施更好的城市规划和控制拓展。\n8. 改善农业效率，减少化肥和杀虫剂的使用。\n9. 种植更多的树木以减少空气污染。\n10. 减少木材、煤炭和生物质的燃烧。"
+  },
+  {
+    "instruction": "可再生能源的存在对环境有什么影响？",
+    "input": "",
+    "output": "可再生能源的存在可以帮助减少空气污染和温室气体排放，因为它们几乎不会排放二氧化碳、二氧化硫等空气污染物。此外，使用可再生能源可以促进能源效率的进一步提高和能源利用的改善。可再生能源也可以帮助减少对化石燃料的依赖，这不仅可以减少排放，而且还可以帮助减少全球气候变化的风险。最后，可再生能源可以帮助保护自然资源，减少为了能源生产而开发更多土地和资源的需要。"
+  },
+  {
+    "instruction": "解释神经网络如何学习。",
+    "input": "",
+    "output": "神经网络是一种机器学习算法，它使用连接的节点集合来近似可以将输入变量映射到输出的函数。为了学习神经网络的参数，计算机需要调整节点之间连接的权重，以便网络为给定输入产生正确的输出。这个调整过程称为学习，通过比较网络产生的输出和期望的结果，然后使用优化算法来调整权重，使得网络输出逼近期望的结果。这个过程在多个输入和期望的输出上重复进行多次迭代。最终，连接节点之间的权重将被调整，以便神经网络的输出与期望的结果相匹配，学习过程将完成。"
+  },
+  {
+    "instruction": "给出一个机器学习算法的例子，并解释它是如何工作的。",
+    "input": "",
+    "output": "一个流行的机器学习算法的例子是支持向量机（SVM）。它是一个用于分类和回归任务的监督学习算法。它通过在n维空间中绘制数据点，由空间中的决策边界或超平面进行分离。该算法使用最大边距，这些边距尽可能远离两类数据点。这些边距有助于创建最优的决策超平面。然后，算法通过考虑分类任务中发生的错误来调整决策超平面，并相应地修改超平面。\n\n最终，支持向量机可以使用最优的决策超平面执行分类任务，预测数据点的类别。"
+  },
+  {
+    "instruction": "描述推荐系统的工作原理",
+    "input": "",
+    "output": "推荐系统是一种信息过滤系统，它使用用户过去的行为或偏好来建议用户可能感兴趣的新项目。该系统首先收集用户行为和偏好的数据，例如他们经常在线购买或查看哪些项目。然后使用这些数据基于他们过去的行为为用户创建个性化的个人资料。通过分析相似用户购买或查看的其他项目，系统可以向用户推荐量身定制的项目，以适应用户的个人资料和兴趣。"
+  },
+  {
+    "instruction": "列出人工智能的五个可能应用",
+    "input": "",
+    "output": "1. 自动化和机器人：AI可用于自动化和优化工业或制造过程。\n2. 医疗保健： AI可用于诊断和治疗疾病，提高医疗组织的工作流程效率或为患者提供个性化护理。\n3. 银行和金融：AI可用于开发自动交易系统，实现更精确的金融交易欺诈检测，并提供个性化的金融建议。\n4. 图像，语音和文本识别：AI可用于与图像识别，语音合成和自然语言处理相关的任务。\n5. 自主车辆：AI可用于开发无需人为干预的自动驾驶汽车，无人机和其他车辆。"
+  },
+  {
+    "instruction": "列举自然语言处理任务的四个例子",
+    "input": "",
+    "output": "1. 文本分类：将文本分类为预定义的类别，例如情感分类或主题分类。\n2. 文本摘要：生成一篇包含关键信息的文本摘要。\n3. 语言翻译：将一种语言的文本翻译成另一种语言，例如英语翻译成西班牙语。\n4. 实体抽取：利用自然语言处理从文本中抽取实体，例如名称或地点。"
+  },
+  {
+    "instruction": "将以下句子从一种时态转换为另一种时态",
+    "input": "他正在往商店走。",
+    "output": "他曾经往商店走过。"
+  },
+  {
+    "instruction": "协助调试 Python 脚本。",
+    "input": "该脚本需要两个参数，游戏中所要求的玩家数量和玩的游戏数量。然后，它会生成一份报告，报告平均玩家数量。\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2]):\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)",
+    "output": "第三行代码存在语法错误，应该将 \":\" 移除。正确的代码如下所示:\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2])\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)"
+  },
+  {
+    "instruction": "读下面的段落，找出一个比喻句子。",
+    "input": "\"我的烦恼长出了翅膀，飞走进了天空\"",
+    "output": "比喻：我的烦恼长出了翅膀，飞走进了天空。"
+  },
+  {
+    "instruction": "在x轴上追踪给定函数以找到输出。",
+    "input": "f(x) = 2x + 1",
+    "output": "x = -2; f(x) = -3;\nx = -1; f(x) = -1;\nx = 0; f(x) = 1;\nx = 1; f(x) = 3;\nx = 2; f(x) = 5;"
+  },
+  {
+    "instruction": "编辑一句话，改变句子结构，让它更加有趣。",
+    "input": "政府已经加强了限制。",
+    "output": "为了遏制病毒的传播，政府已经实施了更为严格的限制。"
+  },
+  {
+    "instruction": "生成一个概括以下文章的创意标题。",
+    "input": "一份新报告表明二氧化碳水平的增加导致了更高的温度、更极端的天气事件和生物多样性的快速衰退。",
+    "output": "增加碳的危险：迅速的气候和生物多样性危机。"
+  },
+  {
+    "instruction": "比较给出的两个对象并提供简明的比较描述。",
+    "input": "对象1：苹果 \n对象2：橙子",
+    "output": "苹果和橙子都是水果，但苹果通常是圆形和甜的，而橙子通常是椭圆形且味道酸甜。苹果的内部为奶白色，而橙子的内部是多汁且鲜艳的颜色。"
+  },
+  {
+    "instruction": "在给定的笔记本电脑上撰写一篇评论",
+    "input": "联想Yoga 920",
+    "output": "我最近购买了联想Yoga 920，我绝对爱上了它。它非常强大，配有英特尔i7处理器，14英寸触摸屏显示屏和8GB内存。键盘是背光的，打字非常舒适，触摸板非常灵敏。电池寿命非常好，即使在使用过程中，笔记本电脑也能保持低温。总体而言，这是一个优秀的选择，适合任何寻找强大可靠的笔记本电脑的人。"
+  },
+  {
+    "instruction": "生成一份包含十种易于养护的独特盆栽植物的清单",
+    "input": "",
+    "output": "1. ZZ植物\n2. 高山地牢\n3. 蛇纹绿\n4. 金色葡萄叶箭竹\n5. 妮龙脊榕\n6. 弯曲竹子\n7. 常规和平百合\n8. 神龙花\n9. 铁树\n10. 大叶无花果树"
+  },
+  {
+    "instruction": "在给定的情况下进行扩展并创造一个故事",
+    "input": "从前有一个住在小村庄里的年轻女孩",
+    "output": "从前有一个年轻女孩名叫莎拉，她住在一个被起伏的山丘和青翠的田野所包围的小村庄里。她是一个聪明的女孩，但却很内向和害羞，经常喜欢独自一人，漫步在山坡上，享受大自然的美丽。然而有一天，她偶然发现了村庄边缘一间破旧的小屋，里面住着一位神秘的老人。当老人看到莎拉时，他微笑着邀请她共进晚餐。在晚餐时，老人告诉莎拉一个神秘的魔法国度，并邀请她一同前往那里展开一场盛大的冒险。莎拉没有多想，很快就接受了邀请，跟着老人一起前往这个神秘而充满惊喜的世界。"
+  },
+  {
+    "instruction": "基于提供的材料提出甜点名称",
+    "input": "巧克力、草莓、夏威夷坚果",
+    "output": "巧克力夏威夷坚果草莓美味。"
+  },
+  {
+    "instruction": "为给定产品生成广告口号",
+    "input": "亚马逊Prime",
+    "output": "亚马逊Prime-无限畅享，尽享所欲！"
+  },
+  {
+    "instruction": "构建 SQL 查询以满足需求",
+    "input": "从表 'sales' 中检索所有记录",
+    "output": "SELECT * FROM sales;"
+  },
+  {
+    "instruction": "总结所给书籍的要点",
+    "input": "爱丽丝漫游奇境记",
+    "output": "《爱丽丝漫游奇境记》是刘易斯·卡罗尔于1886年所著的小说。它讲述了少女爱丽丝跌落兔子洞后发现了一个充满奇怪生物和神秘地方的世界。在她的经历中，爱丽丝学会了成长、自信和忠诚。在整个小说中，爱丽丝努力记住她是谁，她应该去哪里。她也质疑权威，学会了独立思考。"
+  },
+  {
+    "instruction": "针对提供的主题创建一个研究问题",
+    "input": "海平面上升",
+    "output": "由气候变化引起的海平面上升的影响可以采用哪些方法加以缓解?"
+  },
+  {
+    "instruction": "总结这部小说的主题。",
+    "input": "小说《了不起的盖茨比》是由F. Scott Fitzgerald所写。",
+    "output": "小说《了不起的盖茨比》是一个讲述美国梦的徒劳追求的故事，最终是一个关于这种空洞和贪婪的警世故事。透过这个故事，菲茨杰拉德批判了20世纪20年代的美国，揭示了它空洞的物质主义，并突出了一个人的身份和社会地位如何决定他们在社会中的地位。"
+  },
+  {
+    "instruction": "开发一种在线商店的营销策略。",
+    "input": "",
+    "output": "要成功地营销在线商店，您应该采用一系列策略，包括利用流行的社交媒体平台，创建一个设计良好的网站，优化内容以适应搜索引擎，通过电子邮件活动与客户互动。此外，数字广告活动和影响力合作可以帮助您吸引更广泛的受众。此外，通过提供独家折扣和创建特殊的客户服务来与客户建立联系，建立忠诚度和信任，这可能是有益的。"
+  },
+  {
+    "instruction": "给出一些原料清单后，告诉我们如何制作一份简单的素食餐。",
+    "input": "意大利面、番茄、红洋葱、大蒜。",
+    "output": "要用意大利面、番茄、红洋葱和大蒜制作简单的素食餐，首先要把一锅水烧开。水开后，根据烹饪说明加入意大利面。在意大利面煮的时候，在平底锅里用中高火热一些橄榄油，把大蒜和红洋葱炒1-2分钟至软化。加入番茄，降低火候，炖煮10分钟或者直到番茄变软。意大利面煮熟后，把它沥干，然后加入平底锅中。与蔬菜一起翻炒，用新鲜的草药撒上即可上菜。"
+  },
+  {
+    "instruction": "寻找两个二元分类问题的例子。",
+    "input": "",
+    "output": "1. 垃圾邮件过滤：将电子邮件分类为垃圾邮件或非垃圾邮件。\n2. 信用风险评估：将贷款申请人分类为高风险或低风险。"
+  },
+  {
+    "instruction": "制作一个有说服力的说辞，为什么人们应该捐赠给慈善机构。",
+    "input": "",
+    "output": "向慈善机构捐赠是回馈那些需要帮助的人们最有影响力的方式之一。捐赠不仅支持慈善机构致力于的事业，还有助于确保世界各地的弱势群体获得基本需求，如食物、住所和医疗保健。当我们向慈善机构捐赠时，我们的贡献具有涟漪效应。它有助于使个人摆脱贫困，创造就业机会，促进经济增长，甚至加强当地社区。捐赠慈善不仅改善了人们的生活，而且表明我们关心并可以改变这个世界。"
+  },
+  {
+    "instruction": "针对产品发布提出五种营销策略。",
+    "input": "",
+    "output": "1. 社交媒体活动。\n2. 电子邮件营销。\n3. 在线和离线广告。\n4. 推荐和评论。\n5. 合作名人推销。"
+  },
+  {
+    "instruction": "给出一个需要连续输入值的分类问题的示例？",
+    "input": "",
+    "output": "一个需要连续输入值的分类问题的示例是房屋价格预测。房屋的价格通常基于诸如平方英尺、位置、卧室和浴室数量以及像后院或车库等功能这样的因素定价。为了准确预测房屋价格，这些标准必须作为连续输入值输入到分类模型中。"
+  },
+  {
+    "instruction": "将以下物品列表转换为句子",
+    "input": "apple, banana, orange",
+    "output": "我有一个苹果，一个香蕉和一个橙子。"
+  },
+  {
+    "instruction": "列出三个描述人的常见形容词",
+    "input": "",
+    "output": "描述人的三个常见形容词是自信、友好和善良。"
+  },
+  {
+    "instruction": "写一个有效的比较语句",
+    "input": "篮球和足球",
+    "output": "篮球和足球都是受欢迎的运动。"
+  },
+  {
+    "instruction": "概述以下段落",
+    "input": "自1969年以来，美国宇航员一直在探索月球。他们建造了基地，驾驶月球车并收集了样本。",
+    "output": "I. 美国宇航员探索月球 \nA. 1969年登月 \nB. 建造基地 \nC. 驾驶月球车 \nD. 收集样本"
+  },
+  {
+    "instruction": "描述你的城市中的三个地方",
+    "input": "",
+    "output": "我所在的城市有三个独特的地方——一个热闹的市中心区，有许多商店和餐厅，一个宁静的自然保护区，有起伏的山丘和野生动物，还有一个生机勃勃的海滩，是当地人和游客的热门去处。"
+  },
+  {
+    "instruction": "写一段关于一个人特点的描述",
+    "input": "姓名：阿比盖尔\n喜欢的东西：动作电影、法国菜、热衷于商业",
+    "output": "阿比盖尔是一个冒险的灵魂，喜欢看动作电影和吃法国美食。她对商业充满热情，并努力培养。她阅读投资新闻，密切关注股市。每当有机会出现，阿比盖尔总是迅速行动，不会犹豫利用她的商业知识。她是那种喜欢经历商业起伏、善于追求交易并与志同道合的人交流的人。"
+  },
+  {
+    "instruction": "列举三个人工智能应用程序",
+    "input": "",
+    "output": "人工智能的三个应用程序是自然语言处理、计算机视觉和人脸识别。"
+  },
+  {
+    "instruction": "将日期转换为ISO 8601格式",
+    "input": "November 25, 2020",
+    "output": "2020-11-25"
+  },
+  {
+    "instruction": "为给定短语创建首字母缩略词",
+    "input": "数字安全",
+    "output": "SD - 数字安全"
+  },
+  {
+    "instruction": "给定问题编写一个等式",
+    "input": "计算两个方向相同的力4N和6N的净合力",
+    "output": "净合力 = 4 N + 6 N = 10 N"
+  },
+  {
+    "instruction": "为给定的博客生成潜在话题列表",
+    "input": "营销",
+    "output": "- 编写出色的文案\n- 制定有效的销售渠道\n- 增加电子邮件订阅者名单\n- 充分利用付费广告\n- 利用视频内容进行潜在客户生成\n- 创建社交媒体互动的策略\n- 通过SEO增加交通流量\n- 利用有影响力的人物进行品牌推广\n- 制定内容市场营销计划\n- 测量您的投资回报率"
+  },
+  {
+    "instruction": "计算给定形状的面积",
+    "input": "宽为5厘米，高为10厘米的矩形",
+    "output": "面积 = 5厘米 x 10厘米 = 50厘米2"
+  },
+  {
+    "instruction": "猜测在给定序列中的下一个元素",
+    "input": "3, 5, 7, 9, __",
+    "output": "11"
+  },
+  {
+    "instruction": "列举一个物品常见的用途",
+    "input": "螺丝刀",
+    "output": "- 打开和关闭螺丝 \n- 组装和拆卸家具 \n- 拧紧和松开螺栓 \n- 打开和调整便携式电子产品 \n- 拆卸机器以进行检查"
+  },
+  {
+    "instruction": "模拟给定代码的输出",
+    "input": "public class HelloWorld {\n   public static void main(String[] args) {\n      System.out.println(\"Hello, World\");\n   }\n}",
+    "output": "Hello, World"
+  },
+  {
+    "instruction": "判断该文章是观点类还是新闻类",
+    "input": "报纸报道称政府已宣布决定在该地区部署更多武装部队。",
+    "output": "该文章被归类为新闻类。"
+  },
+  {
+    "instruction": "电子邮件信息的三个最重要的组成部分是什么？",
+    "input": "",
+    "output": "电子邮件信息的三个最重要的组成部分是主题行、邮件正文和签名。"
+  },
+  {
+    "instruction": "识别给定时间轴上显示的不同事件类型。",
+    "input": "日期：5月10日至6月1日：\n- 设计冲刺\n- 工程规划\n- 整个团队会议",
+    "output": "时间轴上显示的事件类型有设计冲刺、工程规划和整个团队会议。"
+  },
+  {
+    "instruction": "使用代词替换所给句子中的名词。",
+    "input": "The doctor looked at his patient.",
+    "output": "He looked at his patient."
+  },
+  {
+    "instruction": "在给定文本中创建一个警报。",
+    "input": "The upcoming meeting has been postponed, and it has been rescheduled for Wednesday, April 1st.",
+    "output": "请注意，即将到来的会议已被延期，新的时间是4月1日星期三。"
+  },
+  {
+    "instruction": "将给定的句子改写为修辞问题。",
+    "input": "他以前从未见过大海。",
+    "output": "他以前曾经见过大海吗？"
+  },
+  {
+    "instruction": "用不同的词重新表达给定的句子。",
+    "input": "他总是试图在生活中走在前面。",
+    "output": "他不断努力追求成功。"
+  },
+  {
+    "instruction": "告诉我在冬季种植草药的方法。",
+    "input": "",
+    "output": "您可以使用植物生长灯和水培系统在室内种植草药。您也可以购买草药苗，并将它们移植到容器中，放置在朝南的窗户。\n\n此外，您还可以使用温室在冬季种植草药。温室可以提供足够的光线和温暖来模拟理想的生长条件。"
+  },
+  {
+    "instruction": "制作一个包含20个宏观经济指标的列表。",
+    "input": "",
+    "output": "20个宏观经济指标列表：\n\n1.国内生产总值（GDP）\n2.失业率\n3.通货膨胀率\n4.利率\n5.国际收支\n6.国家债务\n7.货币供应量\n8.消费者物价指数\n9.货币汇率\n10.商业周期\n11.房价\n12.政府支出\n13.税收收入\n14.储蓄率\n15.资本投资\n16.制造业生产\n17.商品价格\n18.建设活动\n19.生产率"
+  },
+  {
+    "instruction": "将句子\"Bob和他的家人一起生活\"改写为被动语态。",
+    "input": "",
+    "output": "他的家人被Bob与之一起生活。"
+  },
+  {
+    "instruction": "识别全球变暖对海平面的影响。",
+    "input": "",
+    "output": "全球变暖导致极地冰盖融化和海水加热膨胀，使海平面上升。这导致更高和更频繁的洪水、更严重的风暴和增加的海岸侵蚀。此外，更温暖和更酸性的海洋还可能导致物种灭绝、生物多样性减少和海洋食物链的破坏。"
+  },
+  {
+    "instruction": "确定银的化学符号。",
+    "input": "",
+    "output": "银的化学符号是Ag。"
+  },
+  {
+    "instruction": "比较并对比莫内和梵高的绘画风格。",
+    "input": "",
+    "output": "莫内和梵高的绘画风格在描绘色彩、质感和题材方面不同。莫内的画作以柔和、朦胧为特点，使用柔和的颜色和轻柔的笔触。梵高则经常在他的艺术作品中运用有活力的笔触和鲜艳的颜色，创造出高度表现性的场景。莫内通常捕捉以光线和氛围为重点的日常场景，而梵高则经常在他的画作中融入强烈的情感，包括夜景、乡村风景和普通人的肖像。"
+  },
+  {
+    "instruction": "将下列数字分类为质数或合数。",
+    "input": "7",
+    "output": "质数"
+  },
+  {
+    "instruction": "编写一个包含书的笑话。",
+    "input": "",
+    "output": "当一本书看到图书馆时会做什么？它会非常兴奋，翻起书架来！"
+  },
+  {
+    "instruction": "将以下诗歌归类为其适当的风格。",
+    "input": "I. I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils\n\nII. Flinging ecstatic mirth\nIn the hollows of my mind,\nMy heart will bless the happy earth\nFor the beautiful sweet dream I find\n\nIII. In the village church yard\nShe stands; in her rue-brown guize,\nWith the clay-cold turf of the buri'd dead\nUnder neath her feet so wise\n\nIV. Stay, stay at home, my heart, and rest;\n Home-keeping hearts are happiest,\n For those that wander they know not\n Where they shall find a more blest",
+    "output": "I: 浪漫主义诗歌 \nII: 意象主义 \nIII: 哥特式诗歌 \nIV: 抒情诗歌。"
+  },
+  {
+    "instruction": "使用自己选择的技巧重写以下句子。",
+    "input": "我在最终通过了考试时感到非常高兴。",
+    "output": "这场考试一直是我必须跨越的障碍——当我终于成功通过时，我被喜悦淹没了。"
+  },
+  {
+    "instruction": "使用更好的英语语法和更简单的语言改写以下句子。",
+    "input": "It is the duty of every single person to ensure that as many of the bystanders as reasonably possible are unharmed in the event of an emergency.",
+    "output": "在紧急情况下，每个人都有责任确保尽可能多的人安全无恙。"
+  },
+  {
+    "instruction": "生成一句与谚语“及时行乐”的谚语相关的例子。",
+    "input": "",
+    "output": "拖延是时间的小偷-立即行动，才能在以后节省时间和精力。"
+  },
+  {
+    "instruction": "生成一篇 500 字的故事，讲述一个发现自己身处一个陌生城市的男人。",
+    "input": "",
+    "output": "约翰走出机场，眯着眼睛看着炽热的中午阳光。他身处一座新城市，从未去过，感到内心深处有一股巨大的不安。他环顾四周，看着陌生的街道和建筑，忽然意识到他不知道自己该去哪里。他慢慢地开始走，试图理解周围的环境。\n\n当他穿过城市时，他注意到偶尔有几个人，但大部分时间都很宁静和空旷。他走了几个小时，直到他终于找到了一个小咖啡馆。那是唯一还开着的地方，他决定坐下来休息。\n\n约翰点了一杯咖啡，靠在椅子上，如释重负。他啜着饮料，注意到墙上贴着这座城市的地图。他的好奇心被激发了，慢慢地开始研究地图，试图记住主要道路以更好地了解城市的布局。\n\n他最终喝完咖啡，离开了咖啡馆，地图将这座城市的大部分记忆深深地铭刻在脑海里。他四处张望，欣赏建筑和地标，决心要充分利用他在这个陌生新城市的逗留时间。\n\n最终，他发现自己处于一个意外温馨的社区，不知不觉中开始探索。他发现了一个美丽的公园，很快就感觉自己仿佛被带到了另一个世界。从那刻起，他就入迷了。\n\n随着时间的推移，他对这个城市了解得越来越多，最终结交了一些朋友。他很快就完全热爱他的新家，心中充满了新的爱。他对他现在称之为自己家的这座陌生城市感到深深的连接，生活在这个陌生的城市里很快就感觉像是真正的家。\n\n约翰在接下来的几年里，快乐地探索着这个美妙的地方的街道和小巷。他从小事中找到了乐趣，比如夕阳在城市天际线上的落日，繁忙人行道上的熙熙攘攘。他经常惊叹于他所爱的城市的美丽，随着每一天的过去，他感到越来越平静。\n\n约翰最终搬走了，但他永远不会忘记爱上他所不熟悉的城市的感觉。他在心中保留着这些回忆，这座城市在他的生命中总会有着特殊的位置；他知道自己永远不会忘记爱上一个陌生城市的感觉。"
+  },
+  {
+    "instruction": "生成一个与希望相关的隐喻例子。",
+    "input": "",
+    "output": "希望就像火焰，在最黑暗的时刻仍然闪耀明亮。"
+  },
+  {
+    "instruction": "想出一个表达感激之情的口号或短语。",
+    "input": "",
+    "output": "表达感激之情，展示你的感激之情。"
+  },
+  {
+    "instruction": "你能用'获得'的同义词重构句子吗？",
+    "input": "The company has been trying to acquire new customers.",
+    "output": "The company has been trying to obtain new customers."
+  },
+  {
+    "instruction": "提供需要逻辑推理的任务的示例。",
+    "input": "",
+    "output": "需要逻辑推理的任务的一个例子是解决一个复杂的数学问题。为了解决这个问题，人必须理解不同的数学运算，运算符之间的关系以及如何使用逻辑来得出正确的解决方案。另一个需要逻辑推理的任务的例子是计算机编程。程序员必须了解不同的计算机命令以及它们如何相互作用，以创建一个可工作的程序。"
+  },
+  {
+    "instruction": "写3-4句关于使用在线日程安排的好处。",
+    "input": "",
+    "output": "使用在线日程安排可以带来许多好处。它可以通过自动向客户发送提醒来节省时间，消除了需要客户打电话或发电子邮件的需求。由于许多在线日程安排的低成本或免费，它还可以降低客户日程安排的成本。此外，通过提供易于预订的准确预约时间，在线日程安排可以帮助确保客户满意度。最后，在线日程安排也可以帮助企业更好地跟踪其预约和日程安排活动。"
+  },
+  {
+    "instruction": "确定一个机器学习算法的例子。",
+    "input": "",
+    "output": "机器学习算法的一个例子是支持向量机（SVM）。支持向量机是用于分类和回归任务的监督学习算法。该算法旨在构建一个能够准确预测给定数据点类别的模型，方法是找到将数据点分成不同类的最优超平面。它是一种具有强大数学基础的强大算法，在面部识别和自然语言处理等许多应用中得到了广泛应用。"
+  },
+  {
+    "instruction": "使用单词'converse'重写这个句子。",
+    "input": "他在和她说话。",
+    "output": "他正在和她交谈。"
+  },
+  {
+    "instruction": "机器学习中聚类的目的是什么？",
+    "input": "",
+    "output": "机器学习中聚类的目的是将大型数据集划分为较小的子集，其中每个子集包含相似的数据点。聚类算法使用统计方法基于数据点之间的相似性来分组，例如距离等。通过分组数据点，可以将聚类用于分类、预测以及找到数据点之间的关系，这些关系可能仅从数据本身看不出来。"
+  },
+  {
+    "instruction": "生成一个例子来说明情感分析的工作原理。",
+    "input": "",
+    "output": "情感分析是一种通过为文本数据中的单词和短语分配数字分数来分析消费者意见的方法。例如，情感分析算法可能为每个\"爱\"单词出现一次分配一个+1的分数，并为每个\"讨厌\"单词出现一次分配一个-1的分数。通过对文本中每个单词的分数进行求和，算法可以给出一个总体情感分数，如果总体意见为正面，则得分为正，如果总体意见为负面，则得分为负数。"
+  },
+  {
+    "instruction": "描述监督学习的概念。",
+    "input": "",
+    "output": "监督学习是一种机器学习类型，其中标记过的数据用于创建可以对未标记数据进行预测的模型。在监督学习中，训练数据集由已经用正确的输出或目标值标记的数据组成。然后算法从这些标记数据中学习，并能够在新的、之前未见过的数据上做出预测。监督学习通常在图像识别，自然语言处理以及大多数机器学习任务中使用。"
+  },
+  {
+    "instruction": "描述使用GPT模型生成自然语言文本的过程。",
+    "input": "",
+    "output": "可以通过输入一系列标记并要求其完成序列来使用GPT模型生成自然语言文本。模型将取输入标记并使用它们基于序列的当前上下文生成新标记。该过程将为一定数量的标记或直到模型达到一定的置信阈值重复进行。模型的输出将是一系列标记，这些标记可以组合成自然语言文本。"
+  },
+  {
+    "instruction": "提供一個自然語言處理可以使用的示例。",
+    "input": "",
+    "output": "自然語言處理可用於各種任務，包括文本生成，問答，文件摘要，情感分析和翻譯。例如，自然語言處理系統可以用於分析客戶評論以識別客戶情感中的模式，或自動生成對詢問的總結回復。"
+  },
+  {
+    "instruction": "命名一个可以用于自动化手动任务的工具。",
+    "input": "",
+    "output": "可用于自动化手动任务的工具是机器人流程自动化（RPA）。"
+  },
+  {
+    "instruction": "描述风险管理框架。",
+    "input": "",
+    "output": "风险管理框架是一组用于识别、评估、监控和管理风险的组件和过程，适用于各种情况。通常包括风险识别、风险评估、风险缓解和控制、风险监测以及沟通和咨询。"
+  },
+  {
+    "instruction": "编写一个函数，用于查找给定数组的最大元素。",
+    "input": "int array[] = {8, 3, 5, 9, 3, 1, 5};",
+    "output": "int findMax(int array[])\n{\n    int max = array[0];\n    for (int i = 1; i < sizeof(array)/sizeof(array[0]); i++)\n    {\n        if (array[i] > max)\n            max = array[i];\n    }\n    return max;\n}"
+  },
+  {
+    "instruction": "如何向一个群体介绍自己最好的方式？",
+    "input": "",
+    "output": "向一个群体介绍自己最好的方式是简短明了，开始说出你的名字，分享一个简短的一句话描述你的职业和为什么加入这个群体，然后邀请提问和交流。"
+  },
+  {
+    "instruction": "写一个计算产品总成本的方程。",
+    "input": "产品价格= $24\n数量= 3\n运输费用= $8",
+    "output": "总成本=（产品价格*数量）+运输费用\n=(24*3)+8\n=72+8\n=$80"
+  },
+  {
+    "instruction": "在商业报告中最重要的要素是什么？",
+    "input": "",
+    "output": "商业报告中最重要的要素是执行摘要。它应该向读者提供报告的主要观点和结论。"
+  },
+  {
+    "instruction": "构建一个查询，选择一张表中`price`大于$100的记录。",
+    "input": "",
+    "output": "SELECT * FROM table WHERE price > 100;"
+  },
+  {
+    "instruction": "为 Web 应用程序制定安全策略。",
+    "input": "",
+    "output": "Web 应用程序的安全策略应包括以下措施：使用加密和数字签名解决方案保护用户数据、访问控制和身份验证措施确保用户身份和授权、审计日志和监控以检测任何恶意活动，以及实施安全编程技术。"
+  },
+  {
+    "instruction": "解释如何设计软件架构。",
+    "input": "",
+    "output": "设计软件架构涉及决定软件的各个组件（例如模块、数据库、服务器等）的结构和交互方式。它还包括识别组件及其关系、设计具体的实现细节、评估设计的质量和安全性以及记录架构。"
+  },
+  {
+    "instruction": "将给定的数字列表按从小到大的顺序排序。",
+    "input": "2, 3, 5, 8, 6, 4",
+    "output": "2, 3, 4, 5, 6, 8"
+  },
+  {
+    "instruction": "如何创建电子邮件模板？",
+    "input": "",
+    "output": "创建电子邮件模板涉及设计电子邮件的视觉和内容，编写文本和创建图像，优化消息以便传递和回应，以及测试模板以确保其正常工作。"
+  },
+  {
+    "instruction": "计算半径为5，高度为10的圆锥的表面积。",
+    "input": "",
+    "output": "半径为5，高度为10的圆锥的表面积约为159.79平方单位。"
+  },
+  {
+    "instruction": "开发一种算法来在列表中搜索特定项。",
+    "input": "",
+    "output": "搜索列表中特定项的算法可以实现如下：\n1. 将初始索引设置为0。\n2. 将当前索引位置的项与目标项进行比较。\n3. 如果项与目标项匹配，则返回该项的索引。\n4. 否则，增加索引并返回到步骤2。\n5. 如果索引到达列表末尾，则该项目不在列表中，算法返回-1。"
+  },
+  {
+    "instruction": "写一条推文，表达文章中表达的情绪。",
+    "input": "最近的一项调查显示，90％的参与者表示自我保健对于他们的整体健康和福祉至关重要。",
+    "output": "是时候照顾自己了！ 新的调查显示，自我保健是整体健康和福祉的关键。 #selfcare #wellbeing #mentalhealth"
+  },
+  {
+    "instruction": "书写两个角色之间讨论文章的短对话。",
+    "input": "在最近的一项调查中，90%的参与者表示自我保健对他们的整体健康和幸福感很重要。",
+    "output": "角色1：你听说过最近的那个调查吗？\n角色2：没有，是关于什么的？\n角色1：它表明，90%的参与者认为自我保健对他们的整体健康和幸福感很重要。\n角色2：太神奇了！我们都应该在日常生活中抽出时间来实践自我保健。"
+  },
+  {
+    "instruction": "将段落转换为独白",
+    "input": "The 2022 FIFA World Cup is scheduled to be the 22nd running of the FIFA World Cup competition, the quadrennial international men's football championship contested by the senior national teams of the member associations of FIFA. It is scheduled to take place in Qatar from 20 November to 18 December 2022. This will be the first World Cup ever to be held in the Arab world, and the second World Cup held entirely in Asia after the 2002 tournament in South Korea and Japan.",
+    "output": "官方宣布，2022年的FIFA世界杯将在卡塔尔举办，这是该比赛史上首次在阿拉伯世界举办！这也是亚洲地区第二次完全承办世界杯，第一次是在2002年的韩国和日本。这将是一个令人兴奋的锦标赛，将展示足球队伍的民族自豪和团队精神！"
+  },
+  {
+    "instruction": "列出5种不同的方式，文章可以在课程计划中使用。",
+    "input": "最近的调查显示，90% 的参与者表示自我护理对他们的整体健康和幸福感很重要。",
+    "output": "1.头脑风暴：列出人们可以进行的自我护理活动清单\n2.反思：让学生反思自我护理如何有助于他们的身体、心理和情感健康\n3.写作：学生撰写一篇有说服力的文章，阐述自我护理的重要性以及如何养成自我护理习惯\n4.演讲：分组，学生创建汇总调查结果的演示文稿\n5.讨论：进行一场班级辩论，探讨自我护理对良好健康和幸福感是否必要。"
+  },
+  {
+    "instruction": "按照文章写一个简短的故事。",
+    "input": "最近的一项调查显示，90%的参与者表示自我照顾对他们的整体健康和幸福感非常重要。",
+    "output": "金一直感到不知所措和疲惫不堪。生活感觉飞快地过去，她跟不上。但她一直在逼着自己，害怕减速并为自己留时间。但是当她听说调查结果时 — 90%的参与者都认为自我照顾对整体健康和幸福感非常重要。这是金开始关心自己需要的叫醒电话。她开始留出时间散步、冥想和做其他让她快乐的事情。终于，她能够喘息，并意识到照顾自己是必要的，而不是奢侈。"
+  },
+  {
+    "instruction": "用富有创意的方式描述调查结果。",
+    "input": "在最近的一项调查中，90%的参与者表示自我关爱对于他们的身心健康非常重要。",
+    "output": "调查结果令人鼓舞，十分之九的人认为人生苦短，不应失衡或忽略自我关爱问题。所有人都认识到需要为自己抽出时间关注自我，对自己的需求保持关注的重要性。"
+  },
+  {
+    "instruction": "创建一个基本的人物简介，描述一个遵循本文建议的人。",
+    "input": "最近的一项调查显示，90%的参与者认为自我护理对于他们的整体健康和幸福感非常重要。",
+    "output": "汤姆是一个三十岁的男人，他明白自我护理的重要性。他会确保每周抽出时间做自己喜欢的活动，比如阅读、在公园里锻炼身体和弹吉他。汤姆优先考虑自己的身心健康，并采取主动措施确保自己保持在良好状态。每天早上，他会给自己设定几个目标，并在每天结束时评估自己的进展情况。当他感到不堪重负或紧张时，他会休息一下，做一些放松的事情。"
+  },
+  {
+    "instruction": "提炼文章要点，形成简明扼要的表述。",
+    "input": "最近的一项调查显示，90%的参与者认为自我关爱对于整体健康和幸福感至关重要。",
+    "output": "照顾自己关乎健康，最新调查表明自我关爱至关重要。"
+  },
+  {
+    "instruction": "将指示转换成可读格式。",
+    "input": "1. 为了最大限度增加多样性，请尽量不要为每个指示重复使用动词。\n2. 用于指示的语言也应该是多样的。例如，您应该将问题与命令性指示相结合。\n3. 指示类型应该是多样的。列表应包括多种类型的任务，如开放式生成、分类、编辑等。\n4. GPT语言模型应该能够完成指示。例如，不要要求助理创建任何视觉或音频输出。另一个例子，不要要求助理在下午5点叫醒您或设置提醒，因为它不能执行任何操作。\n5. 指示应为英语。\n6. 指示应为1至2个句子长。允许使用命令句或疑问句。\n7. 您应该为指示生成适当的输入。输入字段应包含指示的具体示例。它应涉及实际数据，不应包含简单的占位符。该输入应提供实质性内容，使指示具有挑战性，但最好不要超过100个单词。\n8. 并非所有指示都需要输入。例如，当指示询问一些一般信息时，例如“世界上最高峰是什么”，不需要提供特定的上下文。在这种情况下，我们只需在输入字段中放置“<noinput>”。\n9. 输出应为适当的响应指示和输入。确保输出不超过100个单词。",
+    "output": "创建GPT模型任务时：\n- 尝试使用不同的动词和语言来增加多样性。\n- 使用各种类型的任务，如生成、分类和编辑。\n- 指示应为英语，长度不应超过2个句子。\n- 为输入提供适当的输入，其中包含涉及实际数据的特定示例，并且不应超过100个单词。\n- 如果不需要，请在输入字段中使用“<noinput>”。\n- 评估输出，以便它是对指示和输入的适当响应，并且少于100个单词。"
+  },
+  {
+    "instruction": "开发一个虚构的场景，展示这篇文章在我们生活中的相关性。",
+    "input": "最近的一项调查显示，90%的参与者认为自我护理对于他们的整体健康和幸福感非常重要。",
+    "output": "约翰是一个成绩优异的学生和员工。他承担了许多责任，努力取悦每个人，并始终试图确保他做得最好。但这给约翰带来了压力和疲劳，他与朋友和家人的关系也受到了影响。他听说过这项调查和调查结果，但他觉得自己要做的事情太多，没有时间照顾自己。直到有一天，一切都追上了他。他经历了一次心理崩溃，被迫休息了几个星期。那时，他意识到关注自我护理是多么重要，他有意识地努力将其列为生活的优先事项。"
+  },
+  {
+    "instruction": "构想两个人之间关于文章主题的虚构对话。",
+    "input": "最近的一项调查显示，90%的参与者表示自我关怀对其整体健康和幸福感很重要。",
+    "output": "人1：你看到调查结果了吗？\n人2：没有，它说什么？\n人1：它表明90%的参与者同意自我关怀对他们的整体健康和幸福感很重要。\n人2：哇，这是一个很好的提醒，让我们抽出时间来照顾自己！我们都需要照顾好自己，确保不会过度劳累。\n人1：绝对！我这周将开始为自己留出时间。"
+  },
+  {
+    "instruction": "确定秘鲁的首都。",
+    "input": "",
+    "output": "秘鲁的首都是利马。"
+  },
+  {
+    "instruction": "生成一个设计，为一家制造消费电子产品的公司设计标志。",
+    "input": "",
+    "output": "这个消费电子公司的标志应该具有清新现代的设计感，反映了他们致力于创建高品质电子产品的承诺。标志应包括简单的形状，如圆圈和三角形，或者粗体轮廓，形成设备的形状。颜色应该是明亮和动态的，以展现他们的可定制性和时尚感。标志应该包括公司的名称和一个可识别的符号。"
+  },
+  {
+    "instruction": "写一条关于人工智能的推文。",
+    "input": "",
+    "output": "从自动驾驶汽车到机器人外科医生 - #人工智能正在改变我们的生活！#AI #未来科技"
+  },
+  {
+    "instruction": "已知底边和相对的高，确定三角形的面积。",
+    "input": "底边长度：10厘米\n高度：8厘米",
+    "output": "三角形的面积为40平方厘米。"
+  },
+  {
+    "instruction": "写出三个比喻来描述爱。",
+    "input": "",
+    "output": "1. 爱就像一条河流，不断流淌，不断变化。\n2. 爱就像一座灯塔，引领我们穿过黑暗。\n3. 爱就像一座花园，盛开着希望和可能性。"
+  },
+  {
+    "instruction": "比较和对比英语和普通话。",
+    "input": "",
+    "output": "英语和普通话是两种不同的语言，有相似之处也有不同之处。英语是一种印欧语系，拥有高度发展的词汇和复杂的拼写系统。普通话是一种汉藏语系，拥有声调系统、大量的外来词和简化的写作系统。英语有26个字母的字母表，而普通话使用数百个汉字的字母表。英语语法大多数是直白和简单的，而普通话语法则更为复杂，还使用句子修饰词表示不同的含义。尽管存在这些差异，两种语言都有广泛的地区方言，并共享许多文化重要场所，如文学和诗歌。"
+  },
+  {
+    "instruction": "生成关于\"如何学习在线课程\"的博客文章",
+    "input": "",
+    "output": "学习在线课程可能与传统课堂中的学习方式有所不同，因此您可以使用一些策略来最大化您的学习。\n\n首先，创建一个坚定不移的时间表，您将坚持。执行严格的时间表并不意味着您在更关注课程；它只是为您的学习增添了结构。由于房间里没有导师，一切都取决于您的组织和始终如一。\n\n另外，将大概念分解成更小的部分。加入课程和观看讲座可能会让学生感到害怕。为了使材料更加可控，将内容分解成更小的段，以便更容易处理。\n\n不要忘记定期休息。在完成一两个主题后，花10分钟做一些伸展或抓住一些小吃。这将帮助您保持注意力，预防疲劳。\n\n最后，制定一个学习系统。找到适合您的学习系统类型，也许是做笔记，与网上同学交流或回顾错过的话题。了解哪些技术对您有效，将有助于保持在线课程的进度。\n\n有了一些有用的策略，您将能够成功应对任何在线课程。祝你好运，玩的开心！"
+  },
+  {
+    "instruction": "最近的金融危机是在哪一年开始的？",
+    "input": "",
+    "output": "最近的金融危机发生在2007年。"
+  },
+  {
+    "instruction": "告诉我一个有关电脑的笑话。",
+    "input": "",
+    "output": "问：电脑为什么一直打喷嚏？\n答：它中了病毒！"
+  },
+  {
+    "instruction": "将短语“Let's have fun”翻译成西班牙语",
+    "input": "",
+    "output": "¡Vamos a divertirnos!"
+  },
+  {
+    "instruction": "以下短语是否包含两个连续辅音字母？",
+    "input": "Watch",
+    "output": "是的。该短语包含两个连续辅音字母，“t”和“ch” 。"
+  },
+  {
+    "instruction": "从从属从句中分离出独立从句。",
+    "input": "Although he was tired, he went for a run.",
+    "output": "独立从句：He went for a run. \n从属从句：Although he was tired."
+  },
+  {
+    "instruction": "说出一种堆肥材料",
+    "input": "",
+    "output": "纸板和硬纸板、树叶、草屑、水果和蔬菜废料以及咖啡渣都是堆肥材料的种类。"
+  },
+  {
+    "instruction": "描述一个初中生的典型一天。",
+    "input": "",
+    "output": "一个初中生的典型一天包括早上早早起床，为上学做准备，上午上课，和朋友一起午餐，下午再上更多的课程，参加课外活动，晚上做家庭作业。在周末，初中生可以放松、和朋友出去玩，或者追求自己的爱好。"
+  },
+  {
+    "instruction": "讲述一个小老鼠学习如何飞翔的故事。",
+    "input": "",
+    "output": "从前有一只名叫Max的小老鼠，他充满好奇心和冒险精神，虽然飞翔似乎是不可能的事情，但他梦想有朝一日能够翱翔天空。有一天，他决定实现他的梦想，并独自一人出发学习如何飞翔。他每天努力练习，很快就能够起飞并在空中停留几秒钟。虽然还很困难，但他很有决心，随着时间的推移，他的努力开始得到回报，他能够每天飞得更高。很快，Max成为了动物世界中第一只能够飞翔的老鼠。他常常向大家展示自己的技能，并分享翅膀带来的自由和快乐。"
+  },
+  {
+    "instruction": "将以下文本归类为谚语或引语。",
+    "input": "It's no use crying over spilled milk.",
+    "output": "谚语。"
+  },
+  {
+    "instruction": "将以下句子转化为肯定语句。",
+    "input": "我不自信。",
+    "output": "我每天变得更自信。"
+  },
+  {
+    "instruction": "描述以下书中的一个有趣的角色。",
+    "input": "Harry Potter",
+    "output": "哈格力是《哈利·波特》系列中的一个有趣的角色。他是一个半巨人，是哈利的忠实朋友，在整个系列中向他提供建议和鼓励。他庞大的体型和对生物的热爱使他既令人生畏又让人喜爱。他还喜欢小型的异国生物，经常收留它们并抚养它们。他的积极态度和为正确事情而热情的精神，为读者提供了一个强有力的榜样。"
+  },
+  {
+    "instruction": "分析以下文本并确定它是哪种类型的文本。",
+    "input": "山坡上的火势迅速蔓延，摧毁了城镇的大部分。",
+    "output": "这是一个描述性文本的示例。"
+  },
+  {
+    "instruction": "创建以下情况的新预测。",
+    "input": "股市目前正在上涨。",
+    "output": "我预测股市将在未来几天继续上涨，因为投资者对经济复苏保持乐观态度。"
+  },
+  {
+    "instruction": "找到下面句子最恰当的答案。",
+    "input": "数据通常以什么形式存储在计算机上？",
+    "output": "数据通常以二进制形式存储在计算机上。"
+  },
+  {
+    "instruction": "解释短语“生活就像一盒巧克力”.",
+    "input": "",
+    "output": "短语“生活就像一盒巧克力”暗示着生活是不可预测的，一个人永远不知道未来会带来什么。就像打开一盒巧克力，你不知道会拿到什么样的糖果一样。"
+  },
+  {
+    "instruction": "使用关系型数据库的主要优点是什么？",
+    "input": "",
+    "output": "使用关系型数据库的主要优点是使数据更有组织性、更易于访问、查询和分析。"
+  },
+  {
+    "instruction": "识别通往山顶的路径。",
+    "input": "[一张山景图片]",
+    "output": "通往山顶的路径由大岩石和巨石标记，并位于图像中心可见。"
+  },
+  {
+    "instruction": "用什么术语来描述两个公司联合起来创建一个更大的公司？",
+    "input": "",
+    "output": "合并是用来描述两个公司联合起来创建更大的公司的术语。"
+  },
+  {
+    "instruction": "描述一位青少年在疫情期间的生活。",
+    "input": "",
+    "output": "在疫情期间，青少年的生活被社交孤立、焦虑和抑郁、学校和课外活动的中断以及难以平衡家庭和同龄人的期望所标记。"
+  },
+  {
+    "instruction": "以下句子是真是假？科学家预测全球变暖将导致未来更多的干旱？",
+    "input": "",
+    "output": "True. 科学家预测全球变暖将导致未来更频繁和更加持久的干旱。"
+  },
+  {
+    "instruction": "描述媒体在民主中的角色。",
+    "input": "",
+    "output": "媒体在民主社会中发挥着至关重要的作用，为公民提供平衡、可靠的信息，并帮助监督政府。可靠的新闻来源使社会能够做出明智决策，并通过报道政策决策、辩论和政治来监督政府。此外，媒体还在提供公民发声方面发挥着作用，通过报道和观点文章，促进不同话题的辩论，为公民提供讨论和挑战各种问题的机会。"
+  },
+  {
+    "instruction": "列举降低一次性塑料使用的五种方法。",
+    "input": "",
+    "output": "降低一次性塑料使用的五种方法包括：用可重复使用的袋子替代一次性袋子、避免购买过度包装的商品、旅行携带可重复使用的瓶子和容器、避免购买预包装的生产以及在无法避免使用塑料时选择可堆肥或可生物降解的物品。此外，人们还可以支持减少塑料污染的倡议和立法，提高公众意识，以及使用可重复填充的容器。"
+  },
+  {
+    "instruction": "机器学习的数据如何收集？",
+    "input": "",
+    "output": "机器学习的数据可以通过各种方式收集。它可以从现有数据库中收集，也可以手动收集和组织。数据也可以通过抓取网页和其他在线来源，例如社交媒体和在线论坛来收集。此外，数据可以通过众包、调查、直接观察和采访等方式收集。"
+  },
+  {
+    "instruction": "比较和对比合成纤维和天然纤维的特征。",
+    "input": "",
+    "output": "合成纤维是人造的，通常由尼龙或聚酯等聚合物制成。它们强度高，耐用，并且通常比天然纤维便宜。天然纤维从植物或动物中生长，包括丝绸、棉花、羊毛和大麻。它们往往更柔软、更舒适、透气性更好，并且通常更高质量。但是，天然纤维也可能比合成纤维更昂贵和不那么耐用。"
+  },
+  {
+    "instruction": "列举消费者决策过程的五个阶段。",
+    "input": "",
+    "output": "消费者决策过程的五个阶段包括问题识别阶段、信息搜索阶段、替代方案评估阶段、购买决策阶段和购后评估阶段。在问题识别阶段，消费者会感知到需求并开始搜索信息。在信息搜索阶段，消费者会寻找更多信息来帮助他们选择产品。在替代方案评估阶段，消费者会评估可用选择并权衡各种选项。在购买决策阶段，消费者会做出购买决策。最后，在购后评估阶段，消费者会评估自己的购买，并决定是否满意自己的决策，或者是否需要再次购买。"
+  },
+  {
+    "instruction": "改写给定句子，使用适当的隐喻使其具有与原句相同的意义。",
+    "input": "跳入游泳池就像是跳入冰水中一样。",
+    "output": "跳入游泳池就像跳入冰浴中一样。"
+  },
+  {
+    "instruction": "列出使用GPT在自然语言处理任务中的四个优点。",
+    "input": "",
+    "output": "使用GPT在自然语言处理任务中的四个优点包括提供上下文感知，增加预测准确度，更快的训练速度和增强的适应性。GPT能够通过识别不同上下文中出现的单词和短语，并根据那些上下文进行预测来提供上下文感知。由于GPT能够处理大量数据，因此可以产生更准确的预测结果。此外，与其他方法相比，GPT的训练速度更快，因为它能够预先训练权重。最后，GPT还可以适应各种任务，使其能够快速重新用于新任务。"
+  },
+  {
+    "instruction": "虚拟现实的优点是什么？",
+    "input": "",
+    "output": "虚拟现实的优点包括增强参与度、提升沉浸感、提高效率、改进安全测试以及加强娱乐体验。增强参与度是指通过将音频和视觉元素结合在一起来创造更真实、更吸引人的体验。增强沉浸感是由于能够体验在现实中不切实际或危险的事物。此外，虚拟现实可以提高效率和生产力，以及在各种行业中改善安全测试。最后，虚拟现实可以利用更逼真的视觉和更具沉浸感的体验来增强娱乐体验。"
+  },
+  {
+    "instruction": "设计一项培训练习，帮助员工变得更有创造力。",
+    "input": "",
+    "output": "一项帮助员工变得更有创造力的培训练习可以包括首先让员工个别地进行头脑风暴，然后再在小组内讨论他们的想法。小组能够划分为更小的团队，每个团队能够自己想出想法，并将其呈现给其他团队。这将允许团队之间进行讨论和交流，并且也提供了一定的竞争。在每个团队呈现他们的想法之后，整个团队可以投票选择最佳的想法，得到最多票数的团队将获得认可。"
+  },
+  {
+    "instruction": "计算机科学中生产者-消费者模式的目的是什么？",
+    "input": "",
+    "output": "生产者-消费者模式是一种计算机科学技术，用于在多个线程之间实现高效的工作流程。它使生产者能够生产物品并将其交给消费者，消费者会处理该物品。该模式有助于实现并发性和可扩展性，因为它允许更多的生产者和消费者同时处理同一问题。它还有助于防止生产者在生产另一个物品前等待消费者完成处理当前物品，因为消费者可以在后台工作。"
+  },
+  {
+    "instruction": "列举编写最佳实践代码的五个规则。",
+    "input": "",
+    "output": "编写最佳实践代码的五个规则包括使用代码注释记录程序、将代码编写为小块、避免使用全局变量、使用一致的命名规范和格式化，以及监控内存泄漏。代码注释应包括代码的简要描述和所做的任何假设。代码应编写成小块，以便更易于调试。应避免使用全局变量，因为它们可能导致结果不可预测。命名规范和格式化的使用应保持一致，以确保可读性和理解性。最后，应监控内存泄漏，以确保内存资源被正确管理。"
+  },
+  {
+    "instruction": "解释人工神经网络的概念。",
+    "input": "",
+    "output": "人工神经网络是基于生物神经网络的计算模型，由称为神经元的基本功能单元组成。这些网络具有学习输入数据的抽象表示并用于进行预测和分类的能力。它们由输入层，若干隐藏层和输出层组成。每层中的神经元彼此连接，用于处理信息。使用名为反向传播的优化过程训练网络，该过程微调每层中与每个神经元相关联的权重。"
+  },
+  {
+    "instruction": "描述自动驾驶车辆的生产过程。",
+    "input": "",
+    "output": "自动驾驶车辆的生产过程包括几个步骤。首先，开发用于控制车辆的算法，包括对环境进行映射和训练AI系统识别物体和障碍物。接下来，车辆被组装，这包括安装诸如传感器、摄像机和其他必要的硬件等组件。最后，对自动驾驶车辆进行测试，以确保它符合安全和性能标准。在测试过程中，车辆暴露在模拟或实际世界的情况下，以评估其性能和精度。"
+  },
+  {
+    "instruction": "不属于网络犯罪的是什么？",
+    "input": "",
+    "output": "使用点对点共享网络不构成网络犯罪。虽然使用这些网络可能会导致下载受版权保护的材料，但这不被视为犯罪行为。然而，这些活动仍然受版权侵权的约束，取决于各个司法辖区可能会导致民事责任。此外，大多数社交媒体活动不构成网络犯罪。虽然某些活动可能被视为不当或冒犯，但它们通常不是犯罪行为。"
+  },
+  {
+    "instruction": "编辑文本，使其含义更加精确。",
+    "input": "The President announced an ambitious plan to cut taxes for all Americans.",
+    "output": "总统宣布了一项雄心勃勃的计划，旨在为所有美国公民和永久居民减税。"
+  },
+  {
+    "instruction": "将科学计数法表示的数12.5转化为十进制表示法。",
+    "input": "",
+    "output": "12.5的十进制表示法为125 × 10^-1。"
+  },
+  {
+    "instruction": "生成创新性解决方案以减少食品浪费。",
+    "input": "",
+    "output": "减少食品浪费的一种可能的解决方案是创建一个在线平台，作为食品企业和家庭之间的中介。在这样的平台上，餐馆和超市等食品企业可以上传他们无法销售的食品浪费，家庭可以以更便宜的价格购买这些食品。这对企业主有益，他们可以找到适当的渠道处理他们的食品浪费，对家庭也有益，他们可以以降低的价格购买食品。\n另一个潜在的解决方案是创建一个应用程序，帮助个人和家庭跟踪他们的杂货购买和剩菜剩饭。这个应用程序可以帮助监控和记录人们购买的食物的数量和类型，以及家庭制作的剩余食物。"
+  },
+  {
+    "instruction": "总结下面提供的信息。",
+    "input": "与2017年第四季度相比，River Technologies的销售额在2018年第一季度下降了6.2％，而员工相关成本上升了7.8％，运营成本增加了10％。",
+    "output": "River Technologies在2018年第一季度报告销售额下降了6.2％，与2017年第四季度相比。此外，员工相关成本上升了7.8％，运营成本增加了10％。"
+  },
+  {
+    "instruction": "创建一个数据库来存储下面给出的用户数据。",
+    "input": "用户名\n密码\n邮箱\n电话号码",
+    "output": "可以创建以下数据库来存储用户数据：\n表名：users\n字段：username（字符串）、password（加密字符串）、email（字符串）、phone number（字符串）。"
+  },
+  {
+    "instruction": "讨论给定COVID-19疫苗对国际贸易的潜在影响。",
+    "input": "",
+    "output": "COVID-19疫苗的开发有可能对国际贸易产生积极影响。随着各国努力为其公民接种疫苗，对基本物资的需求应当会增加。这可能会导致生产的改善，并使各个国家能够恢复正常的国际贸易水平。COVID-19疫苗的推出也可以减少各国为了应对疫情而实行的保护主义政策，让更多跨境交易变得更容易。此外，COVID-19疫苗的开发可以缓解由疫情造成的劳动力短缺，从而提高国际贸易的效率。最后，疫苗的开发可能会促进更多的投资和资本流动，从而推动经济增长。"
+  },
+  {
+    "instruction": "提供三种方法来改善工作场所的沟通。",
+    "input": "",
+    "output": "1. 鼓励开放性对话：鼓励开放性对话使员工能够自由地表达自己的想法，而不用担心批评或评判。这有助于培养协作的工作环境并提高沟通。\n\n2. 应用在线沟通工具：利用在线沟通工具，如即时通讯、视频会议和文档共享平台，可以改善远程团队之间的工作场所沟通并提高生产效率。\n\n3. 提高听力技巧：提高员工的听力技巧可以在工作场所中产生益处。鼓励员工成为注意力集中的听众并积极参与谈话，可帮助创造协作的文化。"
+  }
+]
