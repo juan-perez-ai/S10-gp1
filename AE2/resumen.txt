@@ -1,0 +1,25 @@
+Resumen AE2: manejo de archivos CSV, JSON y TXT
+===============================================
+
+Archivo CSV
+  URL de origen: https://huggingface.co/datasets/RummageLabs/pixar_movies/blob/main/pixar_movies.csv
+  Archivo importado: datos/pixar_movies.csv
+  Registros importados: 28
+  Modificaciones realizadas:
+    - Fila 4: la columna 'movie' cambió de 'Finding Nemo' a 'Buscando a Nemo'
+  Nuevo archivo guardado: datos/pixar_movies_modificado.csv
+  Registros guardados: 28
+
+Archivo JSON
+  URL de origen: https://huggingface.co/datasets/llamafactory/tiny-supervised-dataset/blob/main/train.json
+  Archivo importado: datos/train.json
+  Registros importados: 300
+  Modificaciones realizadas:
+    - Registro 0: el campo 'instruction' cambió de 'Give three tips for staying healthy.' a 'Da tres consejos para mantenerse saludable.'
+  Nuevo archivo guardado: datos/train_modificado.json
+  Registros guardados: 300
+
+Clases y métodos utilizados
+  - ManejadorCSV: importar, actualizar_valor, guardar, resultados
+  - ManejadorJSON: importar, actualizar_valor, guardar, resultados
+  - GeneradorResumenTXT: generar
